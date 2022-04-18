@@ -22,6 +22,7 @@
   },
   "scripts": {
     "start": "concurrently \"react-scripts start\" \"npm run server\"",
+    "scraper": "py ./python/main.py",
     "server": "node ./src/server/index.js",
     "build": "react-scripts build",
     "test": "react-scripts test",
