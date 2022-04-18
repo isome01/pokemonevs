@@ -1,0 +1,906 @@
+name,ev_yield,sprite_img,link,dex_no
+bulbasaur,1 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/bulbasaur.png,https://pokemondb.net/pokedex/bulbasaur,1
+ivysaur,1 Special Attack/ 1 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/ivysaur.png,https://pokemondb.net/pokedex/ivysaur,2
+venusaur,2 Special Attack/ 1 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/venusaur.png,https://pokemondb.net/pokedex/venusaur,3
+charmander,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/charmander.png,https://pokemondb.net/pokedex/charmander,4
+charmeleon,1 Special Attack/ 1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/charmeleon.png,https://pokemondb.net/pokedex/charmeleon,5
+charizard,3 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/charizard.png,https://pokemondb.net/pokedex/charizard,6
+squirtle,1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/squirtle.png,https://pokemondb.net/pokedex/squirtle,7
+wartortle,1 Defense/ 1 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/wartortle.png,https://pokemondb.net/pokedex/wartortle,8
+blastoise,3 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/blastoise.png,https://pokemondb.net/pokedex/blastoise,9
+caterpie,1 HP,https://img.pokemondb.net/sprites/sword-shield/icon/caterpie.png,https://pokemondb.net/pokedex/caterpie,10
+metapod,2 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/metapod.png,https://pokemondb.net/pokedex/metapod,11
+butterfree,2 Special Attack/ 1 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/butterfree.png,https://pokemondb.net/pokedex/butterfree,12
+weedle,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/weedle.png,https://pokemondb.net/pokedex/weedle,13
+kakuna,2 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/kakuna.png,https://pokemondb.net/pokedex/kakuna,14
+beedrill,2 Attack/ 1 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/beedrill.png,https://pokemondb.net/pokedex/beedrill,15
+pidgey,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/pidgey.png,https://pokemondb.net/pokedex/pidgey,16
+pidgeotto,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/pidgeotto.png,https://pokemondb.net/pokedex/pidgeotto,17
+pidgeot,3 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/pidgeot.png,https://pokemondb.net/pokedex/pidgeot,18
+rattata,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/rattata.png,https://pokemondb.net/pokedex/rattata,19
+raticate,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/raticate.png,https://pokemondb.net/pokedex/raticate,20
+spearow,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/spearow.png,https://pokemondb.net/pokedex/spearow,21
+fearow,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/fearow.png,https://pokemondb.net/pokedex/fearow,22
+ekans,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/ekans.png,https://pokemondb.net/pokedex/ekans,23
+arbok,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/arbok.png,https://pokemondb.net/pokedex/arbok,24
+pikachu,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/pikachu.png,https://pokemondb.net/pokedex/pikachu,25
+raichu,3 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/raichu.png,https://pokemondb.net/pokedex/raichu,26
+sandshrew,1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/sandshrew.png,https://pokemondb.net/pokedex/sandshrew,27
+sandslash,2 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/sandslash.png,https://pokemondb.net/pokedex/sandslash,28
+nidoran-f,1 HP,https://img.pokemondb.net/sprites/sword-shield/icon/nidoran-f.png,https://pokemondb.net/pokedex/nidoran-f,29
+nidorina,2 HP,https://img.pokemondb.net/sprites/sword-shield/icon/nidorina.png,https://pokemondb.net/pokedex/nidorina,30
+nidoqueen,3 HP,https://img.pokemondb.net/sprites/sword-shield/icon/nidoqueen.png,https://pokemondb.net/pokedex/nidoqueen,31
+nidoran-m,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/nidoran-m.png,https://pokemondb.net/pokedex/nidoran-m,32
+nidorino,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/nidorino.png,https://pokemondb.net/pokedex/nidorino,33
+nidoking,3 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/nidoking.png,https://pokemondb.net/pokedex/nidoking,34
+clefairy,2 HP,https://img.pokemondb.net/sprites/sword-shield/icon/clefairy.png,https://pokemondb.net/pokedex/clefairy,35
+clefable,3 HP,https://img.pokemondb.net/sprites/sword-shield/icon/clefable.png,https://pokemondb.net/pokedex/clefable,36
+vulpix,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/vulpix.png,https://pokemondb.net/pokedex/vulpix,37
+ninetales,1 Special Defense/ 1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/ninetales.png,https://pokemondb.net/pokedex/ninetales,38
+jigglypuff,2 HP,https://img.pokemondb.net/sprites/sword-shield/icon/jigglypuff.png,https://pokemondb.net/pokedex/jigglypuff,39
+wigglytuff,3 HP,https://img.pokemondb.net/sprites/sword-shield/icon/wigglytuff.png,https://pokemondb.net/pokedex/wigglytuff,40
+zubat,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/zubat.png,https://pokemondb.net/pokedex/zubat,41
+golbat,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/golbat.png,https://pokemondb.net/pokedex/golbat,42
+oddish,1 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/oddish.png,https://pokemondb.net/pokedex/oddish,43
+gloom,2 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/gloom.png,https://pokemondb.net/pokedex/gloom,44
+vileplume,3 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/vileplume.png,https://pokemondb.net/pokedex/vileplume,45
+paras,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/paras.png,https://pokemondb.net/pokedex/paras,46
+parasect,2 Attack/ 1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/parasect.png,https://pokemondb.net/pokedex/parasect,47
+venonat,1 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/venonat.png,https://pokemondb.net/pokedex/venonat,48
+venomoth,1 Special Attack/ 1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/venomoth.png,https://pokemondb.net/pokedex/venomoth,49
+diglett,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/diglett.png,https://pokemondb.net/pokedex/diglett,50
+dugtrio,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/dugtrio.png,https://pokemondb.net/pokedex/dugtrio,51
+meowth,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/meowth.png,https://pokemondb.net/pokedex/meowth,52
+persian,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/persian.png,https://pokemondb.net/pokedex/persian,53
+psyduck,1 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/psyduck.png,https://pokemondb.net/pokedex/psyduck,54
+golduck,2 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/golduck.png,https://pokemondb.net/pokedex/golduck,55
+mankey,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/mankey.png,https://pokemondb.net/pokedex/mankey,56
+primeape,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/primeape.png,https://pokemondb.net/pokedex/primeape,57
+growlithe,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/growlithe.png,https://pokemondb.net/pokedex/growlithe,58
+arcanine,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/arcanine.png,https://pokemondb.net/pokedex/arcanine,59
+poliwag,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/poliwag.png,https://pokemondb.net/pokedex/poliwag,60
+poliwhirl,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/poliwhirl.png,https://pokemondb.net/pokedex/poliwhirl,61
+poliwrath,3 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/poliwrath.png,https://pokemondb.net/pokedex/poliwrath,62
+abra,1 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/abra.png,https://pokemondb.net/pokedex/abra,63
+kadabra,2 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/kadabra.png,https://pokemondb.net/pokedex/kadabra,64
+alakazam,3 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/alakazam.png,https://pokemondb.net/pokedex/alakazam,65
+machop,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/machop.png,https://pokemondb.net/pokedex/machop,66
+machoke,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/machoke.png,https://pokemondb.net/pokedex/machoke,67
+machamp,3 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/machamp.png,https://pokemondb.net/pokedex/machamp,68
+bellsprout,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/bellsprout.png,https://pokemondb.net/pokedex/bellsprout,69
+weepinbell,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/weepinbell.png,https://pokemondb.net/pokedex/weepinbell,70
+victreebel,3 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/victreebel.png,https://pokemondb.net/pokedex/victreebel,71
+tentacool,1 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/tentacool.png,https://pokemondb.net/pokedex/tentacool,72
+tentacruel,2 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/tentacruel.png,https://pokemondb.net/pokedex/tentacruel,73
+geodude,1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/geodude.png,https://pokemondb.net/pokedex/geodude,74
+graveler,2 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/graveler.png,https://pokemondb.net/pokedex/graveler,75
+golem,3 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/golem.png,https://pokemondb.net/pokedex/golem,76
+ponyta,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/ponyta.png,https://pokemondb.net/pokedex/ponyta,77
+rapidash,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/rapidash.png,https://pokemondb.net/pokedex/rapidash,78
+slowpoke,1 HP,https://img.pokemondb.net/sprites/sword-shield/icon/slowpoke.png,https://pokemondb.net/pokedex/slowpoke,79
+slowbro,2 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/slowbro.png,https://pokemondb.net/pokedex/slowbro,80
+magnemite,1 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/magnemite.png,https://pokemondb.net/pokedex/magnemite,81
+magneton,2 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/magneton.png,https://pokemondb.net/pokedex/magneton,82
+farfetchd,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/farfetchd.png,https://pokemondb.net/pokedex/farfetchd,83
+doduo,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/doduo.png,https://pokemondb.net/pokedex/doduo,84
+dodrio,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/dodrio.png,https://pokemondb.net/pokedex/dodrio,85
+seel,1 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/seel.png,https://pokemondb.net/pokedex/seel,86
+dewgong,2 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/dewgong.png,https://pokemondb.net/pokedex/dewgong,87
+grimer,1 HP,https://img.pokemondb.net/sprites/sword-shield/icon/grimer.png,https://pokemondb.net/pokedex/grimer,88
+muk,1 HP/ 1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/muk.png,https://pokemondb.net/pokedex/muk,89
+shellder,1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/shellder.png,https://pokemondb.net/pokedex/shellder,90
+cloyster,2 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/cloyster.png,https://pokemondb.net/pokedex/cloyster,91
+gastly,1 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/gastly.png,https://pokemondb.net/pokedex/gastly,92
+haunter,2 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/haunter.png,https://pokemondb.net/pokedex/haunter,93
+gengar,3 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/gengar.png,https://pokemondb.net/pokedex/gengar,94
+onix,1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/onix.png,https://pokemondb.net/pokedex/onix,95
+drowzee,1 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/drowzee.png,https://pokemondb.net/pokedex/drowzee,96
+hypno,2 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/hypno.png,https://pokemondb.net/pokedex/hypno,97
+krabby,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/krabby.png,https://pokemondb.net/pokedex/krabby,98
+kingler,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/kingler.png,https://pokemondb.net/pokedex/kingler,99
+voltorb,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/voltorb.png,https://pokemondb.net/pokedex/voltorb,100
+electrode,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/electrode.png,https://pokemondb.net/pokedex/electrode,101
+exeggcute,1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/exeggcute.png,https://pokemondb.net/pokedex/exeggcute,102
+exeggutor,2 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/exeggutor.png,https://pokemondb.net/pokedex/exeggutor,103
+cubone,1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/cubone.png,https://pokemondb.net/pokedex/cubone,104
+marowak,2 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/marowak.png,https://pokemondb.net/pokedex/marowak,105
+hitmonlee,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/hitmonlee.png,https://pokemondb.net/pokedex/hitmonlee,106
+hitmonchan,2 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/hitmonchan.png,https://pokemondb.net/pokedex/hitmonchan,107
+lickitung,2 HP,https://img.pokemondb.net/sprites/sword-shield/icon/lickitung.png,https://pokemondb.net/pokedex/lickitung,108
+koffing,1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/koffing.png,https://pokemondb.net/pokedex/koffing,109
+weezing,2 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/weezing.png,https://pokemondb.net/pokedex/weezing,110
+rhyhorn,1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/rhyhorn.png,https://pokemondb.net/pokedex/rhyhorn,111
+rhydon,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/rhydon.png,https://pokemondb.net/pokedex/rhydon,112
+chansey,2 HP,https://img.pokemondb.net/sprites/sword-shield/icon/chansey.png,https://pokemondb.net/pokedex/chansey,113
+tangela,1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/tangela.png,https://pokemondb.net/pokedex/tangela,114
+kangaskhan,2 HP,https://img.pokemondb.net/sprites/sword-shield/icon/kangaskhan.png,https://pokemondb.net/pokedex/kangaskhan,115
+horsea,1 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/horsea.png,https://pokemondb.net/pokedex/horsea,116
+seadra,1 Defense/ 1 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/seadra.png,https://pokemondb.net/pokedex/seadra,117
+goldeen,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/goldeen.png,https://pokemondb.net/pokedex/goldeen,118
+seaking,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/seaking.png,https://pokemondb.net/pokedex/seaking,119
+staryu,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/staryu.png,https://pokemondb.net/pokedex/staryu,120
+starmie,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/starmie.png,https://pokemondb.net/pokedex/starmie,121
+mr-mime,2 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/mr-mime.png,https://pokemondb.net/pokedex/mr-mime,122
+scyther,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/scyther.png,https://pokemondb.net/pokedex/scyther,123
+jynx,2 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/jynx.png,https://pokemondb.net/pokedex/jynx,124
+electabuzz,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/electabuzz.png,https://pokemondb.net/pokedex/electabuzz,125
+magmar,2 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/magmar.png,https://pokemondb.net/pokedex/magmar,126
+pinsir,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/pinsir.png,https://pokemondb.net/pokedex/pinsir,127
+tauros,1 Attack/ 1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/tauros.png,https://pokemondb.net/pokedex/tauros,128
+magikarp,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/magikarp.png,https://pokemondb.net/pokedex/magikarp,129
+gyarados,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/gyarados.png,https://pokemondb.net/pokedex/gyarados,130
+lapras,2 HP,https://img.pokemondb.net/sprites/sword-shield/icon/lapras.png,https://pokemondb.net/pokedex/lapras,131
+ditto,1 HP,https://img.pokemondb.net/sprites/sword-shield/icon/ditto.png,https://pokemondb.net/pokedex/ditto,132
+eevee,1 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/eevee.png,https://pokemondb.net/pokedex/eevee,133
+vaporeon,2 HP,https://img.pokemondb.net/sprites/sword-shield/icon/vaporeon.png,https://pokemondb.net/pokedex/vaporeon,134
+jolteon,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/jolteon.png,https://pokemondb.net/pokedex/jolteon,135
+flareon,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/flareon.png,https://pokemondb.net/pokedex/flareon,136
+porygon,1 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/porygon.png,https://pokemondb.net/pokedex/porygon,137
+omanyte,1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/omanyte.png,https://pokemondb.net/pokedex/omanyte,138
+omastar,2 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/omastar.png,https://pokemondb.net/pokedex/omastar,139
+kabuto,1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/kabuto.png,https://pokemondb.net/pokedex/kabuto,140
+kabutops,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/kabutops.png,https://pokemondb.net/pokedex/kabutops,141
+aerodactyl,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/aerodactyl.png,https://pokemondb.net/pokedex/aerodactyl,142
+snorlax,2 HP,https://img.pokemondb.net/sprites/sword-shield/icon/snorlax.png,https://pokemondb.net/pokedex/snorlax,143
+articuno,3 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/articuno.png,https://pokemondb.net/pokedex/articuno,144
+zapdos,3 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/zapdos.png,https://pokemondb.net/pokedex/zapdos,145
+moltres,3 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/moltres.png,https://pokemondb.net/pokedex/moltres,146
+dratini,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/dratini.png,https://pokemondb.net/pokedex/dratini,147
+dragonair,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/dragonair.png,https://pokemondb.net/pokedex/dragonair,148
+dragonite,3 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/dragonite.png,https://pokemondb.net/pokedex/dragonite,149
+mewtwo,3 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/mewtwo.png,https://pokemondb.net/pokedex/mewtwo,150
+mew,3 HP,https://img.pokemondb.net/sprites/sword-shield/icon/mew.png,https://pokemondb.net/pokedex/mew,151
+chikorita,1 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/chikorita.png,https://pokemondb.net/pokedex/chikorita,152
+bayleef,1 Defense/ 1 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/bayleef.png,https://pokemondb.net/pokedex/bayleef,153
+meganium,1 Defense/ 2 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/meganium.png,https://pokemondb.net/pokedex/meganium,154
+cyndaquil,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/cyndaquil.png,https://pokemondb.net/pokedex/cyndaquil,155
+quilava,1 Special Attack/ 1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/quilava.png,https://pokemondb.net/pokedex/quilava,156
+typhlosion,3 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/typhlosion.png,https://pokemondb.net/pokedex/typhlosion,157
+totodile,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/totodile.png,https://pokemondb.net/pokedex/totodile,158
+croconaw,1 Attack/ 1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/croconaw.png,https://pokemondb.net/pokedex/croconaw,159
+feraligatr,2 Attack/ 1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/feraligatr.png,https://pokemondb.net/pokedex/feraligatr,160
+sentret,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/sentret.png,https://pokemondb.net/pokedex/sentret,161
+furret,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/furret.png,https://pokemondb.net/pokedex/furret,162
+hoothoot,1 HP,https://img.pokemondb.net/sprites/sword-shield/icon/hoothoot.png,https://pokemondb.net/pokedex/hoothoot,163
+noctowl,2 HP,https://img.pokemondb.net/sprites/sword-shield/icon/noctowl.png,https://pokemondb.net/pokedex/noctowl,164
+ledyba,1 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/ledyba.png,https://pokemondb.net/pokedex/ledyba,165
+ledian,2 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/ledian.png,https://pokemondb.net/pokedex/ledian,166
+spinarak,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/spinarak.png,https://pokemondb.net/pokedex/spinarak,167
+ariados,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/ariados.png,https://pokemondb.net/pokedex/ariados,168
+crobat,3 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/crobat.png,https://pokemondb.net/pokedex/crobat,169
+chinchou,1 HP,https://img.pokemondb.net/sprites/sword-shield/icon/chinchou.png,https://pokemondb.net/pokedex/chinchou,170
+lanturn,2 HP,https://img.pokemondb.net/sprites/sword-shield/icon/lanturn.png,https://pokemondb.net/pokedex/lanturn,171
+pichu,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/pichu.png,https://pokemondb.net/pokedex/pichu,172
+cleffa,1 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/cleffa.png,https://pokemondb.net/pokedex/cleffa,173
+igglybuff,1 HP,https://img.pokemondb.net/sprites/sword-shield/icon/igglybuff.png,https://pokemondb.net/pokedex/igglybuff,174
+togepi,1 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/togepi.png,https://pokemondb.net/pokedex/togepi,175
+togetic,2 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/togetic.png,https://pokemondb.net/pokedex/togetic,176
+natu,1 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/natu.png,https://pokemondb.net/pokedex/natu,177
+xatu,1 Special Attack/ 1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/xatu.png,https://pokemondb.net/pokedex/xatu,178
+mareep,1 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/mareep.png,https://pokemondb.net/pokedex/mareep,179
+flaaffy,2 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/flaaffy.png,https://pokemondb.net/pokedex/flaaffy,180
+ampharos,3 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/ampharos.png,https://pokemondb.net/pokedex/ampharos,181
+bellossom,3 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/bellossom.png,https://pokemondb.net/pokedex/bellossom,182
+marill,2 HP,https://img.pokemondb.net/sprites/sword-shield/icon/marill.png,https://pokemondb.net/pokedex/marill,183
+azumarill,3 HP,https://img.pokemondb.net/sprites/sword-shield/icon/azumarill.png,https://pokemondb.net/pokedex/azumarill,184
+sudowoodo,2 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/sudowoodo.png,https://pokemondb.net/pokedex/sudowoodo,185
+politoed,3 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/politoed.png,https://pokemondb.net/pokedex/politoed,186
+hoppip,1 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/hoppip.png,https://pokemondb.net/pokedex/hoppip,187
+skiploom,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/skiploom.png,https://pokemondb.net/pokedex/skiploom,188
+jumpluff,3 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/jumpluff.png,https://pokemondb.net/pokedex/jumpluff,189
+aipom,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/aipom.png,https://pokemondb.net/pokedex/aipom,190
+sunkern,1 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/sunkern.png,https://pokemondb.net/pokedex/sunkern,191
+sunflora,2 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/sunflora.png,https://pokemondb.net/pokedex/sunflora,192
+yanma,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/yanma.png,https://pokemondb.net/pokedex/yanma,193
+wooper,1 HP,https://img.pokemondb.net/sprites/sword-shield/icon/wooper.png,https://pokemondb.net/pokedex/wooper,194
+quagsire,2 HP,https://img.pokemondb.net/sprites/sword-shield/icon/quagsire.png,https://pokemondb.net/pokedex/quagsire,195
+espeon,2 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/espeon.png,https://pokemondb.net/pokedex/espeon,196
+umbreon,2 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/umbreon.png,https://pokemondb.net/pokedex/umbreon,197
+murkrow,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/murkrow.png,https://pokemondb.net/pokedex/murkrow,198
+slowking,2 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/slowking.png,https://pokemondb.net/pokedex/slowking,199
+misdreavus,1 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/misdreavus.png,https://pokemondb.net/pokedex/misdreavus,200
+unown,1 Attack/ 1 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/unown.png,https://pokemondb.net/pokedex/unown,201
+wobbuffet,2 HP,https://img.pokemondb.net/sprites/sword-shield/icon/wobbuffet.png,https://pokemondb.net/pokedex/wobbuffet,202
+girafarig,2 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/girafarig.png,https://pokemondb.net/pokedex/girafarig,203
+pineco,1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/pineco.png,https://pokemondb.net/pokedex/pineco,204
+forretress,2 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/forretress.png,https://pokemondb.net/pokedex/forretress,205
+dunsparce,1 HP,https://img.pokemondb.net/sprites/sword-shield/icon/dunsparce.png,https://pokemondb.net/pokedex/dunsparce,206
+gligar,1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/gligar.png,https://pokemondb.net/pokedex/gligar,207
+steelix,2 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/steelix.png,https://pokemondb.net/pokedex/steelix,208
+snubbull,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/snubbull.png,https://pokemondb.net/pokedex/snubbull,209
+granbull,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/granbull.png,https://pokemondb.net/pokedex/granbull,210
+qwilfish,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/qwilfish.png,https://pokemondb.net/pokedex/qwilfish,211
+scizor,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/scizor.png,https://pokemondb.net/pokedex/scizor,212
+shuckle,1 Defense/ 1 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/shuckle.png,https://pokemondb.net/pokedex/shuckle,213
+heracross,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/heracross.png,https://pokemondb.net/pokedex/heracross,214
+sneasel,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/sneasel.png,https://pokemondb.net/pokedex/sneasel,215
+teddiursa,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/teddiursa.png,https://pokemondb.net/pokedex/teddiursa,216
+ursaring,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/ursaring.png,https://pokemondb.net/pokedex/ursaring,217
+slugma,1 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/slugma.png,https://pokemondb.net/pokedex/slugma,218
+magcargo,2 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/magcargo.png,https://pokemondb.net/pokedex/magcargo,219
+swinub,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/swinub.png,https://pokemondb.net/pokedex/swinub,220
+piloswine,1 HP/ 1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/piloswine.png,https://pokemondb.net/pokedex/piloswine,221
+corsola,1 Defense/ 1 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/corsola.png,https://pokemondb.net/pokedex/corsola,222
+remoraid,1 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/remoraid.png,https://pokemondb.net/pokedex/remoraid,223
+octillery,1 Attack/ 1 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/octillery.png,https://pokemondb.net/pokedex/octillery,224
+delibird,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/delibird.png,https://pokemondb.net/pokedex/delibird,225
+mantine,2 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/mantine.png,https://pokemondb.net/pokedex/mantine,226
+skarmory,2 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/skarmory.png,https://pokemondb.net/pokedex/skarmory,227
+houndour,1 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/houndour.png,https://pokemondb.net/pokedex/houndour,228
+houndoom,2 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/houndoom.png,https://pokemondb.net/pokedex/houndoom,229
+kingdra,1 Attack/ 1 Special Attack/ 1 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/kingdra.png,https://pokemondb.net/pokedex/kingdra,230
+phanpy,1 HP,https://img.pokemondb.net/sprites/sword-shield/icon/phanpy.png,https://pokemondb.net/pokedex/phanpy,231
+donphan,1 Attack/ 1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/donphan.png,https://pokemondb.net/pokedex/donphan,232
+porygon2,2 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/porygon2.png,https://pokemondb.net/pokedex/porygon2,233
+stantler,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/stantler.png,https://pokemondb.net/pokedex/stantler,234
+smeargle,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/smeargle.png,https://pokemondb.net/pokedex/smeargle,235
+tyrogue,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/tyrogue.png,https://pokemondb.net/pokedex/tyrogue,236
+hitmontop,2 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/hitmontop.png,https://pokemondb.net/pokedex/hitmontop,237
+smoochum,1 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/smoochum.png,https://pokemondb.net/pokedex/smoochum,238
+elekid,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/elekid.png,https://pokemondb.net/pokedex/elekid,239
+magby,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/magby.png,https://pokemondb.net/pokedex/magby,240
+miltank,2 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/miltank.png,https://pokemondb.net/pokedex/miltank,241
+blissey,3 HP,https://img.pokemondb.net/sprites/sword-shield/icon/blissey.png,https://pokemondb.net/pokedex/blissey,242
+raikou,1 Special Attack/ 2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/raikou.png,https://pokemondb.net/pokedex/raikou,243
+entei,1 HP/ 2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/entei.png,https://pokemondb.net/pokedex/entei,244
+suicune,1 Defense/ 2 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/suicune.png,https://pokemondb.net/pokedex/suicune,245
+larvitar,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/larvitar.png,https://pokemondb.net/pokedex/larvitar,246
+pupitar,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/pupitar.png,https://pokemondb.net/pokedex/pupitar,247
+tyranitar,3 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/tyranitar.png,https://pokemondb.net/pokedex/tyranitar,248
+lugia,3 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/lugia.png,https://pokemondb.net/pokedex/lugia,249
+ho-oh,3 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/ho-oh.png,https://pokemondb.net/pokedex/ho-oh,250
+celebi,3 HP,https://img.pokemondb.net/sprites/sword-shield/icon/celebi.png,https://pokemondb.net/pokedex/celebi,251
+treecko,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/treecko.png,https://pokemondb.net/pokedex/treecko,252
+grovyle,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/grovyle.png,https://pokemondb.net/pokedex/grovyle,253
+sceptile,3 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/sceptile.png,https://pokemondb.net/pokedex/sceptile,254
+torchic,1 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/torchic.png,https://pokemondb.net/pokedex/torchic,255
+combusken,1 Attack/ 1 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/combusken.png,https://pokemondb.net/pokedex/combusken,256
+blaziken,3 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/blaziken.png,https://pokemondb.net/pokedex/blaziken,257
+mudkip,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/mudkip.png,https://pokemondb.net/pokedex/mudkip,258
+marshtomp,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/marshtomp.png,https://pokemondb.net/pokedex/marshtomp,259
+swampert,3 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/swampert.png,https://pokemondb.net/pokedex/swampert,260
+poochyena,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/poochyena.png,https://pokemondb.net/pokedex/poochyena,261
+mightyena,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/mightyena.png,https://pokemondb.net/pokedex/mightyena,262
+zigzagoon,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/zigzagoon.png,https://pokemondb.net/pokedex/zigzagoon,263
+linoone,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/linoone.png,https://pokemondb.net/pokedex/linoone,264
+wurmple,1 HP,https://img.pokemondb.net/sprites/sword-shield/icon/wurmple.png,https://pokemondb.net/pokedex/wurmple,265
+silcoon,2 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/silcoon.png,https://pokemondb.net/pokedex/silcoon,266
+beautifly,3 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/beautifly.png,https://pokemondb.net/pokedex/beautifly,267
+cascoon,2 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/cascoon.png,https://pokemondb.net/pokedex/cascoon,268
+dustox,3 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/dustox.png,https://pokemondb.net/pokedex/dustox,269
+lotad,1 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/lotad.png,https://pokemondb.net/pokedex/lotad,270
+lombre,2 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/lombre.png,https://pokemondb.net/pokedex/lombre,271
+ludicolo,3 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/ludicolo.png,https://pokemondb.net/pokedex/ludicolo,272
+seedot,1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/seedot.png,https://pokemondb.net/pokedex/seedot,273
+nuzleaf,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/nuzleaf.png,https://pokemondb.net/pokedex/nuzleaf,274
+shiftry,3 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/shiftry.png,https://pokemondb.net/pokedex/shiftry,275
+taillow,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/taillow.png,https://pokemondb.net/pokedex/taillow,276
+swellow,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/swellow.png,https://pokemondb.net/pokedex/swellow,277
+wingull,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/wingull.png,https://pokemondb.net/pokedex/wingull,278
+pelipper,2 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/pelipper.png,https://pokemondb.net/pokedex/pelipper,279
+ralts,1 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/ralts.png,https://pokemondb.net/pokedex/ralts,280
+kirlia,2 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/kirlia.png,https://pokemondb.net/pokedex/kirlia,281
+gardevoir,3 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/gardevoir.png,https://pokemondb.net/pokedex/gardevoir,282
+surskit,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/surskit.png,https://pokemondb.net/pokedex/surskit,283
+masquerain,1 Special Attack/ 1 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/masquerain.png,https://pokemondb.net/pokedex/masquerain,284
+shroomish,1 HP,https://img.pokemondb.net/sprites/sword-shield/icon/shroomish.png,https://pokemondb.net/pokedex/shroomish,285
+breloom,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/breloom.png,https://pokemondb.net/pokedex/breloom,286
+slakoth,1 HP,https://img.pokemondb.net/sprites/sword-shield/icon/slakoth.png,https://pokemondb.net/pokedex/slakoth,287
+vigoroth,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/vigoroth.png,https://pokemondb.net/pokedex/vigoroth,288
+slaking,3 HP,https://img.pokemondb.net/sprites/sword-shield/icon/slaking.png,https://pokemondb.net/pokedex/slaking,289
+nincada,1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/nincada.png,https://pokemondb.net/pokedex/nincada,290
+ninjask,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/ninjask.png,https://pokemondb.net/pokedex/ninjask,291
+shedinja,2 HP,https://img.pokemondb.net/sprites/sword-shield/icon/shedinja.png,https://pokemondb.net/pokedex/shedinja,292
+whismur,1 HP,https://img.pokemondb.net/sprites/sword-shield/icon/whismur.png,https://pokemondb.net/pokedex/whismur,293
+loudred,2 HP,https://img.pokemondb.net/sprites/sword-shield/icon/loudred.png,https://pokemondb.net/pokedex/loudred,294
+exploud,3 HP,https://img.pokemondb.net/sprites/sword-shield/icon/exploud.png,https://pokemondb.net/pokedex/exploud,295
+makuhita,1 HP,https://img.pokemondb.net/sprites/sword-shield/icon/makuhita.png,https://pokemondb.net/pokedex/makuhita,296
+hariyama,2 HP,https://img.pokemondb.net/sprites/sword-shield/icon/hariyama.png,https://pokemondb.net/pokedex/hariyama,297
+azurill,1 HP,https://img.pokemondb.net/sprites/sword-shield/icon/azurill.png,https://pokemondb.net/pokedex/azurill,298
+nosepass,1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/nosepass.png,https://pokemondb.net/pokedex/nosepass,299
+skitty,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/skitty.png,https://pokemondb.net/pokedex/skitty,300
+delcatty,1 HP/ 1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/delcatty.png,https://pokemondb.net/pokedex/delcatty,301
+sableye,1 Attack/ 1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/sableye.png,https://pokemondb.net/pokedex/sableye,302
+mawile,1 Attack/ 1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/mawile.png,https://pokemondb.net/pokedex/mawile,303
+aron,1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/aron.png,https://pokemondb.net/pokedex/aron,304
+lairon,2 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/lairon.png,https://pokemondb.net/pokedex/lairon,305
+aggron,3 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/aggron.png,https://pokemondb.net/pokedex/aggron,306
+meditite,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/meditite.png,https://pokemondb.net/pokedex/meditite,307
+medicham,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/medicham.png,https://pokemondb.net/pokedex/medicham,308
+electrike,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/electrike.png,https://pokemondb.net/pokedex/electrike,309
+manectric,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/manectric.png,https://pokemondb.net/pokedex/manectric,310
+plusle,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/plusle.png,https://pokemondb.net/pokedex/plusle,311
+minun,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/minun.png,https://pokemondb.net/pokedex/minun,312
+volbeat,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/volbeat.png,https://pokemondb.net/pokedex/volbeat,313
+illumise,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/illumise.png,https://pokemondb.net/pokedex/illumise,314
+roselia,2 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/roselia.png,https://pokemondb.net/pokedex/roselia,315
+gulpin,1 HP,https://img.pokemondb.net/sprites/sword-shield/icon/gulpin.png,https://pokemondb.net/pokedex/gulpin,316
+swalot,2 HP,https://img.pokemondb.net/sprites/sword-shield/icon/swalot.png,https://pokemondb.net/pokedex/swalot,317
+carvanha,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/carvanha.png,https://pokemondb.net/pokedex/carvanha,318
+sharpedo,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/sharpedo.png,https://pokemondb.net/pokedex/sharpedo,319
+wailmer,1 HP,https://img.pokemondb.net/sprites/sword-shield/icon/wailmer.png,https://pokemondb.net/pokedex/wailmer,320
+wailord,2 HP,https://img.pokemondb.net/sprites/sword-shield/icon/wailord.png,https://pokemondb.net/pokedex/wailord,321
+numel,1 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/numel.png,https://pokemondb.net/pokedex/numel,322
+camerupt,1 Attack/ 1 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/camerupt.png,https://pokemondb.net/pokedex/camerupt,323
+torkoal,2 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/torkoal.png,https://pokemondb.net/pokedex/torkoal,324
+spoink,1 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/spoink.png,https://pokemondb.net/pokedex/spoink,325
+grumpig,2 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/grumpig.png,https://pokemondb.net/pokedex/grumpig,326
+spinda,1 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/spinda.png,https://pokemondb.net/pokedex/spinda,327
+trapinch,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/trapinch.png,https://pokemondb.net/pokedex/trapinch,328
+vibrava,1 Attack/ 1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/vibrava.png,https://pokemondb.net/pokedex/vibrava,329
+flygon,1 Attack/ 2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/flygon.png,https://pokemondb.net/pokedex/flygon,330
+cacnea,1 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/cacnea.png,https://pokemondb.net/pokedex/cacnea,331
+cacturne,1 Attack/ 1 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/cacturne.png,https://pokemondb.net/pokedex/cacturne,332
+swablu,1 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/swablu.png,https://pokemondb.net/pokedex/swablu,333
+altaria,2 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/altaria.png,https://pokemondb.net/pokedex/altaria,334
+zangoose,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/zangoose.png,https://pokemondb.net/pokedex/zangoose,335
+seviper,1 Attack/ 1 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/seviper.png,https://pokemondb.net/pokedex/seviper,336
+lunatone,2 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/lunatone.png,https://pokemondb.net/pokedex/lunatone,337
+solrock,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/solrock.png,https://pokemondb.net/pokedex/solrock,338
+barboach,1 HP,https://img.pokemondb.net/sprites/sword-shield/icon/barboach.png,https://pokemondb.net/pokedex/barboach,339
+whiscash,2 HP,https://img.pokemondb.net/sprites/sword-shield/icon/whiscash.png,https://pokemondb.net/pokedex/whiscash,340
+corphish,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/corphish.png,https://pokemondb.net/pokedex/corphish,341
+crawdaunt,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/crawdaunt.png,https://pokemondb.net/pokedex/crawdaunt,342
+baltoy,1 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/baltoy.png,https://pokemondb.net/pokedex/baltoy,343
+claydol,2 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/claydol.png,https://pokemondb.net/pokedex/claydol,344
+lileep,1 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/lileep.png,https://pokemondb.net/pokedex/lileep,345
+cradily,2 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/cradily.png,https://pokemondb.net/pokedex/cradily,346
+anorith,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/anorith.png,https://pokemondb.net/pokedex/anorith,347
+armaldo,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/armaldo.png,https://pokemondb.net/pokedex/armaldo,348
+feebas,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/feebas.png,https://pokemondb.net/pokedex/feebas,349
+milotic,2 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/milotic.png,https://pokemondb.net/pokedex/milotic,350
+castform,1 HP,https://img.pokemondb.net/sprites/sword-shield/icon/castform.png,https://pokemondb.net/pokedex/castform,351
+kecleon,1 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/kecleon.png,https://pokemondb.net/pokedex/kecleon,352
+shuppet,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/shuppet.png,https://pokemondb.net/pokedex/shuppet,353
+banette,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/banette.png,https://pokemondb.net/pokedex/banette,354
+duskull,1 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/duskull.png,https://pokemondb.net/pokedex/duskull,355
+dusclops,1 Defense/ 1 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/dusclops.png,https://pokemondb.net/pokedex/dusclops,356
+tropius,2 HP,https://img.pokemondb.net/sprites/sword-shield/icon/tropius.png,https://pokemondb.net/pokedex/tropius,357
+chimecho,1 Special Attack/ 1 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/chimecho.png,https://pokemondb.net/pokedex/chimecho,358
+absol,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/absol.png,https://pokemondb.net/pokedex/absol,359
+wynaut,1 HP,https://img.pokemondb.net/sprites/sword-shield/icon/wynaut.png,https://pokemondb.net/pokedex/wynaut,360
+snorunt,1 HP,https://img.pokemondb.net/sprites/sword-shield/icon/snorunt.png,https://pokemondb.net/pokedex/snorunt,361
+glalie,2 HP,https://img.pokemondb.net/sprites/sword-shield/icon/glalie.png,https://pokemondb.net/pokedex/glalie,362
+spheal,1 HP,https://img.pokemondb.net/sprites/sword-shield/icon/spheal.png,https://pokemondb.net/pokedex/spheal,363
+sealeo,2 HP,https://img.pokemondb.net/sprites/sword-shield/icon/sealeo.png,https://pokemondb.net/pokedex/sealeo,364
+walrein,3 HP,https://img.pokemondb.net/sprites/sword-shield/icon/walrein.png,https://pokemondb.net/pokedex/walrein,365
+clamperl,1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/clamperl.png,https://pokemondb.net/pokedex/clamperl,366
+huntail,1 Attack/ 1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/huntail.png,https://pokemondb.net/pokedex/huntail,367
+gorebyss,2 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/gorebyss.png,https://pokemondb.net/pokedex/gorebyss,368
+relicanth,1 HP/ 1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/relicanth.png,https://pokemondb.net/pokedex/relicanth,369
+luvdisc,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/luvdisc.png,https://pokemondb.net/pokedex/luvdisc,370
+bagon,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/bagon.png,https://pokemondb.net/pokedex/bagon,371
+shelgon,2 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/shelgon.png,https://pokemondb.net/pokedex/shelgon,372
+salamence,3 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/salamence.png,https://pokemondb.net/pokedex/salamence,373
+beldum,1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/beldum.png,https://pokemondb.net/pokedex/beldum,374
+metang,2 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/metang.png,https://pokemondb.net/pokedex/metang,375
+metagross,3 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/metagross.png,https://pokemondb.net/pokedex/metagross,376
+regirock,3 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/regirock.png,https://pokemondb.net/pokedex/regirock,377
+regice,3 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/regice.png,https://pokemondb.net/pokedex/regice,378
+registeel,2 Defense/ 1 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/registeel.png,https://pokemondb.net/pokedex/registeel,379
+latias,3 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/latias.png,https://pokemondb.net/pokedex/latias,380
+latios,3 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/latios.png,https://pokemondb.net/pokedex/latios,381
+kyogre,3 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/kyogre.png,https://pokemondb.net/pokedex/kyogre,382
+groudon,3 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/groudon.png,https://pokemondb.net/pokedex/groudon,383
+rayquaza,2 Attack/ 1 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/rayquaza.png,https://pokemondb.net/pokedex/rayquaza,384
+jirachi,3 HP,https://img.pokemondb.net/sprites/sword-shield/icon/jirachi.png,https://pokemondb.net/pokedex/jirachi,385
+deoxys,1 Attack/ 1 Special Attack/ 1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/deoxys.png,https://pokemondb.net/pokedex/deoxys,386
+turtwig,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/turtwig.png,https://pokemondb.net/pokedex/turtwig,387
+grotle,1 Attack/ 1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/grotle.png,https://pokemondb.net/pokedex/grotle,388
+torterra,2 Attack/ 1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/torterra.png,https://pokemondb.net/pokedex/torterra,389
+chimchar,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/chimchar.png,https://pokemondb.net/pokedex/chimchar,390
+monferno,1 Special Attack/ 1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/monferno.png,https://pokemondb.net/pokedex/monferno,391
+infernape,1 Attack/ 1 Special Attack/ 1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/infernape.png,https://pokemondb.net/pokedex/infernape,392
+piplup,1 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/piplup.png,https://pokemondb.net/pokedex/piplup,393
+prinplup,2 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/prinplup.png,https://pokemondb.net/pokedex/prinplup,394
+empoleon,3 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/empoleon.png,https://pokemondb.net/pokedex/empoleon,395
+starly,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/starly.png,https://pokemondb.net/pokedex/starly,396
+staravia,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/staravia.png,https://pokemondb.net/pokedex/staravia,397
+staraptor,3 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/staraptor.png,https://pokemondb.net/pokedex/staraptor,398
+bidoof,1 HP,https://img.pokemondb.net/sprites/sword-shield/icon/bidoof.png,https://pokemondb.net/pokedex/bidoof,399
+bibarel,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/bibarel.png,https://pokemondb.net/pokedex/bibarel,400
+kricketot,1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/kricketot.png,https://pokemondb.net/pokedex/kricketot,401
+kricketune,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/kricketune.png,https://pokemondb.net/pokedex/kricketune,402
+shinx,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/shinx.png,https://pokemondb.net/pokedex/shinx,403
+luxio,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/luxio.png,https://pokemondb.net/pokedex/luxio,404
+luxray,3 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/luxray.png,https://pokemondb.net/pokedex/luxray,405
+budew,1 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/budew.png,https://pokemondb.net/pokedex/budew,406
+roserade,3 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/roserade.png,https://pokemondb.net/pokedex/roserade,407
+cranidos,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/cranidos.png,https://pokemondb.net/pokedex/cranidos,408
+rampardos,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/rampardos.png,https://pokemondb.net/pokedex/rampardos,409
+shieldon,1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/shieldon.png,https://pokemondb.net/pokedex/shieldon,410
+bastiodon,2 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/bastiodon.png,https://pokemondb.net/pokedex/bastiodon,411
+burmy,1 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/burmy.png,https://pokemondb.net/pokedex/burmy,412
+wormadam,2 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/wormadam.png,https://pokemondb.net/pokedex/wormadam,413
+mothim,1 Attack/ 1 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/mothim.png,https://pokemondb.net/pokedex/mothim,414
+combee,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/combee.png,https://pokemondb.net/pokedex/combee,415
+vespiquen,1 Defense/ 1 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/vespiquen.png,https://pokemondb.net/pokedex/vespiquen,416
+pachirisu,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/pachirisu.png,https://pokemondb.net/pokedex/pachirisu,417
+buizel,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/buizel.png,https://pokemondb.net/pokedex/buizel,418
+floatzel,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/floatzel.png,https://pokemondb.net/pokedex/floatzel,419
+cherubi,1 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/cherubi.png,https://pokemondb.net/pokedex/cherubi,420
+cherrim,2 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/cherrim.png,https://pokemondb.net/pokedex/cherrim,421
+shellos,1 HP,https://img.pokemondb.net/sprites/sword-shield/icon/shellos.png,https://pokemondb.net/pokedex/shellos,422
+gastrodon,2 HP,https://img.pokemondb.net/sprites/sword-shield/icon/gastrodon.png,https://pokemondb.net/pokedex/gastrodon,423
+ambipom,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/ambipom.png,https://pokemondb.net/pokedex/ambipom,424
+drifloon,1 HP,https://img.pokemondb.net/sprites/sword-shield/icon/drifloon.png,https://pokemondb.net/pokedex/drifloon,425
+drifblim,2 HP,https://img.pokemondb.net/sprites/sword-shield/icon/drifblim.png,https://pokemondb.net/pokedex/drifblim,426
+buneary,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/buneary.png,https://pokemondb.net/pokedex/buneary,427
+lopunny,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/lopunny.png,https://pokemondb.net/pokedex/lopunny,428
+mismagius,1 Special Attack/ 1 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/mismagius.png,https://pokemondb.net/pokedex/mismagius,429
+honchkrow,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/honchkrow.png,https://pokemondb.net/pokedex/honchkrow,430
+glameow,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/glameow.png,https://pokemondb.net/pokedex/glameow,431
+purugly,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/purugly.png,https://pokemondb.net/pokedex/purugly,432
+chingling,1 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/chingling.png,https://pokemondb.net/pokedex/chingling,433
+stunky,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/stunky.png,https://pokemondb.net/pokedex/stunky,434
+skuntank,2 HP,https://img.pokemondb.net/sprites/sword-shield/icon/skuntank.png,https://pokemondb.net/pokedex/skuntank,435
+bronzor,1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/bronzor.png,https://pokemondb.net/pokedex/bronzor,436
+bronzong,1 Defense/ 1 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/bronzong.png,https://pokemondb.net/pokedex/bronzong,437
+bonsly,1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/bonsly.png,https://pokemondb.net/pokedex/bonsly,438
+mime-jr,1 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/mime-jr.png,https://pokemondb.net/pokedex/mime-jr,439
+happiny,1 HP,https://img.pokemondb.net/sprites/sword-shield/icon/happiny.png,https://pokemondb.net/pokedex/happiny,440
+chatot,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/chatot.png,https://pokemondb.net/pokedex/chatot,441
+spiritomb,1 Defense/ 1 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/spiritomb.png,https://pokemondb.net/pokedex/spiritomb,442
+gible,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/gible.png,https://pokemondb.net/pokedex/gible,443
+gabite,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/gabite.png,https://pokemondb.net/pokedex/gabite,444
+garchomp,3 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/garchomp.png,https://pokemondb.net/pokedex/garchomp,445
+munchlax,1 HP,https://img.pokemondb.net/sprites/sword-shield/icon/munchlax.png,https://pokemondb.net/pokedex/munchlax,446
+riolu,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/riolu.png,https://pokemondb.net/pokedex/riolu,447
+lucario,1 Attack/ 1 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/lucario.png,https://pokemondb.net/pokedex/lucario,448
+hippopotas,1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/hippopotas.png,https://pokemondb.net/pokedex/hippopotas,449
+hippowdon,2 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/hippowdon.png,https://pokemondb.net/pokedex/hippowdon,450
+skorupi,1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/skorupi.png,https://pokemondb.net/pokedex/skorupi,451
+drapion,2 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/drapion.png,https://pokemondb.net/pokedex/drapion,452
+croagunk,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/croagunk.png,https://pokemondb.net/pokedex/croagunk,453
+toxicroak,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/toxicroak.png,https://pokemondb.net/pokedex/toxicroak,454
+carnivine,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/carnivine.png,https://pokemondb.net/pokedex/carnivine,455
+finneon,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/finneon.png,https://pokemondb.net/pokedex/finneon,456
+lumineon,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/lumineon.png,https://pokemondb.net/pokedex/lumineon,457
+mantyke,1 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/mantyke.png,https://pokemondb.net/pokedex/mantyke,458
+snover,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/snover.png,https://pokemondb.net/pokedex/snover,459
+abomasnow,1 Attack/ 1 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/abomasnow.png,https://pokemondb.net/pokedex/abomasnow,460
+weavile,1 Attack/ 1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/weavile.png,https://pokemondb.net/pokedex/weavile,461
+magnezone,3 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/magnezone.png,https://pokemondb.net/pokedex/magnezone,462
+lickilicky,3 HP,https://img.pokemondb.net/sprites/sword-shield/icon/lickilicky.png,https://pokemondb.net/pokedex/lickilicky,463
+rhyperior,3 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/rhyperior.png,https://pokemondb.net/pokedex/rhyperior,464
+tangrowth,2 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/tangrowth.png,https://pokemondb.net/pokedex/tangrowth,465
+electivire,3 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/electivire.png,https://pokemondb.net/pokedex/electivire,466
+magmortar,3 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/magmortar.png,https://pokemondb.net/pokedex/magmortar,467
+togekiss,2 Special Attack/ 1 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/togekiss.png,https://pokemondb.net/pokedex/togekiss,468
+yanmega,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/yanmega.png,https://pokemondb.net/pokedex/yanmega,469
+leafeon,2 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/leafeon.png,https://pokemondb.net/pokedex/leafeon,470
+glaceon,2 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/glaceon.png,https://pokemondb.net/pokedex/glaceon,471
+gliscor,2 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/gliscor.png,https://pokemondb.net/pokedex/gliscor,472
+mamoswine,3 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/mamoswine.png,https://pokemondb.net/pokedex/mamoswine,473
+porygon-z,3 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/porygon-z.png,https://pokemondb.net/pokedex/porygon-z,474
+gallade,3 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/gallade.png,https://pokemondb.net/pokedex/gallade,475
+probopass,1 Defense/ 2 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/probopass.png,https://pokemondb.net/pokedex/probopass,476
+dusknoir,1 Defense/ 2 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/dusknoir.png,https://pokemondb.net/pokedex/dusknoir,477
+froslass,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/froslass.png,https://pokemondb.net/pokedex/froslass,478
+rotom,1 Special Attack/ 1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/rotom.png,https://pokemondb.net/pokedex/rotom,479
+uxie,2 Defense/ 1 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/uxie.png,https://pokemondb.net/pokedex/uxie,480
+mesprit,1 Attack/ 1 Special Attack/ 1 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/mesprit.png,https://pokemondb.net/pokedex/mesprit,481
+azelf,2 Attack/ 1 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/azelf.png,https://pokemondb.net/pokedex/azelf,482
+dialga,3 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/dialga.png,https://pokemondb.net/pokedex/dialga,483
+palkia,3 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/palkia.png,https://pokemondb.net/pokedex/palkia,484
+heatran,3 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/heatran.png,https://pokemondb.net/pokedex/heatran,485
+regigigas,3 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/regigigas.png,https://pokemondb.net/pokedex/regigigas,486
+giratina,3 HP,https://img.pokemondb.net/sprites/sword-shield/icon/giratina.png,https://pokemondb.net/pokedex/giratina,487
+cresselia,3 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/cresselia.png,https://pokemondb.net/pokedex/cresselia,488
+phione,1 HP,https://img.pokemondb.net/sprites/sword-shield/icon/phione.png,https://pokemondb.net/pokedex/phione,489
+manaphy,3 HP,https://img.pokemondb.net/sprites/sword-shield/icon/manaphy.png,https://pokemondb.net/pokedex/manaphy,490
+darkrai,2 Special Attack/ 1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/darkrai.png,https://pokemondb.net/pokedex/darkrai,491
+shaymin,3 HP,https://img.pokemondb.net/sprites/sword-shield/icon/shaymin.png,https://pokemondb.net/pokedex/shaymin,492
+arceus,3 HP,https://img.pokemondb.net/sprites/sword-shield/icon/arceus.png,https://pokemondb.net/pokedex/arceus,493
+victini,3 HP,https://img.pokemondb.net/sprites/sword-shield/icon/victini.png,https://pokemondb.net/pokedex/victini,494
+snivy,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/snivy.png,https://pokemondb.net/pokedex/snivy,495
+servine,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/servine.png,https://pokemondb.net/pokedex/servine,496
+serperior,3 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/serperior.png,https://pokemondb.net/pokedex/serperior,497
+tepig,1 HP,https://img.pokemondb.net/sprites/sword-shield/icon/tepig.png,https://pokemondb.net/pokedex/tepig,498
+pignite,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/pignite.png,https://pokemondb.net/pokedex/pignite,499
+emboar,3 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/emboar.png,https://pokemondb.net/pokedex/emboar,500
+oshawott,1 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/oshawott.png,https://pokemondb.net/pokedex/oshawott,501
+dewott,2 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/dewott.png,https://pokemondb.net/pokedex/dewott,502
+samurott,3 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/samurott.png,https://pokemondb.net/pokedex/samurott,503
+patrat,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/patrat.png,https://pokemondb.net/pokedex/patrat,504
+watchog,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/watchog.png,https://pokemondb.net/pokedex/watchog,505
+lillipup,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/lillipup.png,https://pokemondb.net/pokedex/lillipup,506
+herdier,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/herdier.png,https://pokemondb.net/pokedex/herdier,507
+stoutland,3 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/stoutland.png,https://pokemondb.net/pokedex/stoutland,508
+purrloin,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/purrloin.png,https://pokemondb.net/pokedex/purrloin,509
+liepard,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/liepard.png,https://pokemondb.net/pokedex/liepard,510
+pansage,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/pansage.png,https://pokemondb.net/pokedex/pansage,511
+simisage,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/simisage.png,https://pokemondb.net/pokedex/simisage,512
+pansear,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/pansear.png,https://pokemondb.net/pokedex/pansear,513
+simisear,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/simisear.png,https://pokemondb.net/pokedex/simisear,514
+panpour,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/panpour.png,https://pokemondb.net/pokedex/panpour,515
+simipour,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/simipour.png,https://pokemondb.net/pokedex/simipour,516
+munna,1 HP,https://img.pokemondb.net/sprites/sword-shield/icon/munna.png,https://pokemondb.net/pokedex/munna,517
+musharna,2 HP,https://img.pokemondb.net/sprites/sword-shield/icon/musharna.png,https://pokemondb.net/pokedex/musharna,518
+pidove,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/pidove.png,https://pokemondb.net/pokedex/pidove,519
+tranquill,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/tranquill.png,https://pokemondb.net/pokedex/tranquill,520
+unfezant,3 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/unfezant.png,https://pokemondb.net/pokedex/unfezant,521
+blitzle,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/blitzle.png,https://pokemondb.net/pokedex/blitzle,522
+zebstrika,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/zebstrika.png,https://pokemondb.net/pokedex/zebstrika,523
+roggenrola,1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/roggenrola.png,https://pokemondb.net/pokedex/roggenrola,524
+boldore,1 Attack/ 1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/boldore.png,https://pokemondb.net/pokedex/boldore,525
+gigalith,3 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/gigalith.png,https://pokemondb.net/pokedex/gigalith,526
+woobat,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/woobat.png,https://pokemondb.net/pokedex/woobat,527
+swoobat,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/swoobat.png,https://pokemondb.net/pokedex/swoobat,528
+drilbur,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/drilbur.png,https://pokemondb.net/pokedex/drilbur,529
+excadrill,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/excadrill.png,https://pokemondb.net/pokedex/excadrill,530
+audino,2 HP,https://img.pokemondb.net/sprites/sword-shield/icon/audino.png,https://pokemondb.net/pokedex/audino,531
+timburr,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/timburr.png,https://pokemondb.net/pokedex/timburr,532
+gurdurr,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/gurdurr.png,https://pokemondb.net/pokedex/gurdurr,533
+conkeldurr,3 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/conkeldurr.png,https://pokemondb.net/pokedex/conkeldurr,534
+tympole,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/tympole.png,https://pokemondb.net/pokedex/tympole,535
+palpitoad,2 HP,https://img.pokemondb.net/sprites/sword-shield/icon/palpitoad.png,https://pokemondb.net/pokedex/palpitoad,536
+seismitoad,3 HP,https://img.pokemondb.net/sprites/sword-shield/icon/seismitoad.png,https://pokemondb.net/pokedex/seismitoad,537
+throh,2 HP,https://img.pokemondb.net/sprites/sword-shield/icon/throh.png,https://pokemondb.net/pokedex/throh,538
+sawk,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/sawk.png,https://pokemondb.net/pokedex/sawk,539
+sewaddle,1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/sewaddle.png,https://pokemondb.net/pokedex/sewaddle,540
+swadloon,2 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/swadloon.png,https://pokemondb.net/pokedex/swadloon,541
+leavanny,3 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/leavanny.png,https://pokemondb.net/pokedex/leavanny,542
+venipede,1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/venipede.png,https://pokemondb.net/pokedex/venipede,543
+whirlipede,2 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/whirlipede.png,https://pokemondb.net/pokedex/whirlipede,544
+scolipede,3 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/scolipede.png,https://pokemondb.net/pokedex/scolipede,545
+cottonee,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/cottonee.png,https://pokemondb.net/pokedex/cottonee,546
+whimsicott,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/whimsicott.png,https://pokemondb.net/pokedex/whimsicott,547
+petilil,1 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/petilil.png,https://pokemondb.net/pokedex/petilil,548
+lilligant,2 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/lilligant.png,https://pokemondb.net/pokedex/lilligant,549
+basculin,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/basculin.png,https://pokemondb.net/pokedex/basculin,550
+sandile,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/sandile.png,https://pokemondb.net/pokedex/sandile,551
+krokorok,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/krokorok.png,https://pokemondb.net/pokedex/krokorok,552
+krookodile,3 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/krookodile.png,https://pokemondb.net/pokedex/krookodile,553
+darumaka,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/darumaka.png,https://pokemondb.net/pokedex/darumaka,554
+darmanitan,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/darmanitan.png,https://pokemondb.net/pokedex/darmanitan,555
+maractus,2 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/maractus.png,https://pokemondb.net/pokedex/maractus,556
+dwebble,1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/dwebble.png,https://pokemondb.net/pokedex/dwebble,557
+crustle,2 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/crustle.png,https://pokemondb.net/pokedex/crustle,558
+scraggy,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/scraggy.png,https://pokemondb.net/pokedex/scraggy,559
+scrafty,1 Defense/ 1 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/scrafty.png,https://pokemondb.net/pokedex/scrafty,560
+sigilyph,2 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/sigilyph.png,https://pokemondb.net/pokedex/sigilyph,561
+yamask,1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/yamask.png,https://pokemondb.net/pokedex/yamask,562
+cofagrigus,2 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/cofagrigus.png,https://pokemondb.net/pokedex/cofagrigus,563
+tirtouga,1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/tirtouga.png,https://pokemondb.net/pokedex/tirtouga,564
+carracosta,2 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/carracosta.png,https://pokemondb.net/pokedex/carracosta,565
+archen,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/archen.png,https://pokemondb.net/pokedex/archen,566
+archeops,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/archeops.png,https://pokemondb.net/pokedex/archeops,567
+trubbish,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/trubbish.png,https://pokemondb.net/pokedex/trubbish,568
+garbodor,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/garbodor.png,https://pokemondb.net/pokedex/garbodor,569
+zorua,1 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/zorua.png,https://pokemondb.net/pokedex/zorua,570
+zoroark,2 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/zoroark.png,https://pokemondb.net/pokedex/zoroark,571
+minccino,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/minccino.png,https://pokemondb.net/pokedex/minccino,572
+cinccino,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/cinccino.png,https://pokemondb.net/pokedex/cinccino,573
+gothita,1 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/gothita.png,https://pokemondb.net/pokedex/gothita,574
+gothorita,2 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/gothorita.png,https://pokemondb.net/pokedex/gothorita,575
+gothitelle,3 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/gothitelle.png,https://pokemondb.net/pokedex/gothitelle,576
+solosis,1 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/solosis.png,https://pokemondb.net/pokedex/solosis,577
+duosion,2 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/duosion.png,https://pokemondb.net/pokedex/duosion,578
+reuniclus,3 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/reuniclus.png,https://pokemondb.net/pokedex/reuniclus,579
+ducklett,1 HP,https://img.pokemondb.net/sprites/sword-shield/icon/ducklett.png,https://pokemondb.net/pokedex/ducklett,580
+swanna,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/swanna.png,https://pokemondb.net/pokedex/swanna,581
+vanillite,1 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/vanillite.png,https://pokemondb.net/pokedex/vanillite,582
+vanillish,2 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/vanillish.png,https://pokemondb.net/pokedex/vanillish,583
+vanilluxe,3 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/vanilluxe.png,https://pokemondb.net/pokedex/vanilluxe,584
+deerling,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/deerling.png,https://pokemondb.net/pokedex/deerling,585
+sawsbuck,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/sawsbuck.png,https://pokemondb.net/pokedex/sawsbuck,586
+emolga,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/emolga.png,https://pokemondb.net/pokedex/emolga,587
+karrablast,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/karrablast.png,https://pokemondb.net/pokedex/karrablast,588
+escavalier,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/escavalier.png,https://pokemondb.net/pokedex/escavalier,589
+foongus,1 HP,https://img.pokemondb.net/sprites/sword-shield/icon/foongus.png,https://pokemondb.net/pokedex/foongus,590
+amoonguss,2 HP,https://img.pokemondb.net/sprites/sword-shield/icon/amoonguss.png,https://pokemondb.net/pokedex/amoonguss,591
+frillish,1 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/frillish.png,https://pokemondb.net/pokedex/frillish,592
+jellicent,2 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/jellicent.png,https://pokemondb.net/pokedex/jellicent,593
+alomomola,2 HP,https://img.pokemondb.net/sprites/sword-shield/icon/alomomola.png,https://pokemondb.net/pokedex/alomomola,594
+joltik,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/joltik.png,https://pokemondb.net/pokedex/joltik,595
+galvantula,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/galvantula.png,https://pokemondb.net/pokedex/galvantula,596
+ferroseed,1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/ferroseed.png,https://pokemondb.net/pokedex/ferroseed,597
+ferrothorn,2 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/ferrothorn.png,https://pokemondb.net/pokedex/ferrothorn,598
+klink,1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/klink.png,https://pokemondb.net/pokedex/klink,599
+klang,2 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/klang.png,https://pokemondb.net/pokedex/klang,600
+klinklang,3 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/klinklang.png,https://pokemondb.net/pokedex/klinklang,601
+tynamo,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/tynamo.png,https://pokemondb.net/pokedex/tynamo,602
+eelektrik,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/eelektrik.png,https://pokemondb.net/pokedex/eelektrik,603
+eelektross,3 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/eelektross.png,https://pokemondb.net/pokedex/eelektross,604
+elgyem,1 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/elgyem.png,https://pokemondb.net/pokedex/elgyem,605
+beheeyem,2 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/beheeyem.png,https://pokemondb.net/pokedex/beheeyem,606
+litwick,1 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/litwick.png,https://pokemondb.net/pokedex/litwick,607
+lampent,2 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/lampent.png,https://pokemondb.net/pokedex/lampent,608
+chandelure,3 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/chandelure.png,https://pokemondb.net/pokedex/chandelure,609
+axew,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/axew.png,https://pokemondb.net/pokedex/axew,610
+fraxure,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/fraxure.png,https://pokemondb.net/pokedex/fraxure,611
+haxorus,3 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/haxorus.png,https://pokemondb.net/pokedex/haxorus,612
+cubchoo,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/cubchoo.png,https://pokemondb.net/pokedex/cubchoo,613
+beartic,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/beartic.png,https://pokemondb.net/pokedex/beartic,614
+cryogonal,2 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/cryogonal.png,https://pokemondb.net/pokedex/cryogonal,615
+shelmet,1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/shelmet.png,https://pokemondb.net/pokedex/shelmet,616
+accelgor,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/accelgor.png,https://pokemondb.net/pokedex/accelgor,617
+stunfisk,2 HP,https://img.pokemondb.net/sprites/sword-shield/icon/stunfisk.png,https://pokemondb.net/pokedex/stunfisk,618
+mienfoo,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/mienfoo.png,https://pokemondb.net/pokedex/mienfoo,619
+mienshao,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/mienshao.png,https://pokemondb.net/pokedex/mienshao,620
+druddigon,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/druddigon.png,https://pokemondb.net/pokedex/druddigon,621
+golett,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/golett.png,https://pokemondb.net/pokedex/golett,622
+golurk,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/golurk.png,https://pokemondb.net/pokedex/golurk,623
+pawniard,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/pawniard.png,https://pokemondb.net/pokedex/pawniard,624
+bisharp,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/bisharp.png,https://pokemondb.net/pokedex/bisharp,625
+bouffalant,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/bouffalant.png,https://pokemondb.net/pokedex/bouffalant,626
+rufflet,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/rufflet.png,https://pokemondb.net/pokedex/rufflet,627
+braviary,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/braviary.png,https://pokemondb.net/pokedex/braviary,628
+vullaby,1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/vullaby.png,https://pokemondb.net/pokedex/vullaby,629
+mandibuzz,2 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/mandibuzz.png,https://pokemondb.net/pokedex/mandibuzz,630
+heatmor,2 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/heatmor.png,https://pokemondb.net/pokedex/heatmor,631
+durant,2 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/durant.png,https://pokemondb.net/pokedex/durant,632
+deino,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/deino.png,https://pokemondb.net/pokedex/deino,633
+zweilous,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/zweilous.png,https://pokemondb.net/pokedex/zweilous,634
+hydreigon,3 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/hydreigon.png,https://pokemondb.net/pokedex/hydreigon,635
+larvesta,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/larvesta.png,https://pokemondb.net/pokedex/larvesta,636
+volcarona,3 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/volcarona.png,https://pokemondb.net/pokedex/volcarona,637
+cobalion,3 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/cobalion.png,https://pokemondb.net/pokedex/cobalion,638
+terrakion,3 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/terrakion.png,https://pokemondb.net/pokedex/terrakion,639
+virizion,3 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/virizion.png,https://pokemondb.net/pokedex/virizion,640
+tornadus,3 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/tornadus.png,https://pokemondb.net/pokedex/tornadus,641
+thundurus,3 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/thundurus.png,https://pokemondb.net/pokedex/thundurus,642
+reshiram,3 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/reshiram.png,https://pokemondb.net/pokedex/reshiram,643
+zekrom,3 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/zekrom.png,https://pokemondb.net/pokedex/zekrom,644
+landorus,3 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/landorus.png,https://pokemondb.net/pokedex/landorus,645
+kyurem,1 HP/ 1 Attack/ 1 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/kyurem.png,https://pokemondb.net/pokedex/kyurem,646
+keldeo,3 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/keldeo.png,https://pokemondb.net/pokedex/keldeo,647
+meloetta,1 Special Attack/ 1 Special Defense/ 1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/meloetta.png,https://pokemondb.net/pokedex/meloetta,648
+genesect,1 Attack/ 1 Special Attack/ 1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/genesect.png,https://pokemondb.net/pokedex/genesect,649
+chespin,1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/chespin.png,https://pokemondb.net/pokedex/chespin,650
+quilladin,2 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/quilladin.png,https://pokemondb.net/pokedex/quilladin,651
+chesnaught,3 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/chesnaught.png,https://pokemondb.net/pokedex/chesnaught,652
+fennekin,1 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/fennekin.png,https://pokemondb.net/pokedex/fennekin,653
+braixen,2 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/braixen.png,https://pokemondb.net/pokedex/braixen,654
+delphox,3 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/delphox.png,https://pokemondb.net/pokedex/delphox,655
+froakie,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/froakie.png,https://pokemondb.net/pokedex/froakie,656
+frogadier,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/frogadier.png,https://pokemondb.net/pokedex/frogadier,657
+greninja,3 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/greninja.png,https://pokemondb.net/pokedex/greninja,658
+bunnelby,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/bunnelby.png,https://pokemondb.net/pokedex/bunnelby,659
+diggersby,2 HP,https://img.pokemondb.net/sprites/sword-shield/icon/diggersby.png,https://pokemondb.net/pokedex/diggersby,660
+fletchling,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/fletchling.png,https://pokemondb.net/pokedex/fletchling,661
+fletchinder,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/fletchinder.png,https://pokemondb.net/pokedex/fletchinder,662
+talonflame,3 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/talonflame.png,https://pokemondb.net/pokedex/talonflame,663
+scatterbug,1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/scatterbug.png,https://pokemondb.net/pokedex/scatterbug,664
+spewpa,2 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/spewpa.png,https://pokemondb.net/pokedex/spewpa,665
+vivillon,1 HP/ 1 Special Attack/ 1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/vivillon.png,https://pokemondb.net/pokedex/vivillon,666
+litleo,1 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/litleo.png,https://pokemondb.net/pokedex/litleo,667
+pyroar,2 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/pyroar.png,https://pokemondb.net/pokedex/pyroar,668
+flabebe,1 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/flabebe.png,https://pokemondb.net/pokedex/flabebe,669
+floette,2 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/floette.png,https://pokemondb.net/pokedex/floette,670
+florges,3 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/florges.png,https://pokemondb.net/pokedex/florges,671
+skiddo,1 HP,https://img.pokemondb.net/sprites/sword-shield/icon/skiddo.png,https://pokemondb.net/pokedex/skiddo,672
+gogoat,2 HP,https://img.pokemondb.net/sprites/sword-shield/icon/gogoat.png,https://pokemondb.net/pokedex/gogoat,673
+pancham,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/pancham.png,https://pokemondb.net/pokedex/pancham,674
+pangoro,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/pangoro.png,https://pokemondb.net/pokedex/pangoro,675
+furfrou,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/furfrou.png,https://pokemondb.net/pokedex/furfrou,676
+espurr,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/espurr.png,https://pokemondb.net/pokedex/espurr,677
+meowstic,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/meowstic.png,https://pokemondb.net/pokedex/meowstic,678
+honedge,1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/honedge.png,https://pokemondb.net/pokedex/honedge,679
+doublade,2 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/doublade.png,https://pokemondb.net/pokedex/doublade,680
+aegislash,2 Defense/ 1 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/aegislash.png,https://pokemondb.net/pokedex/aegislash,681
+spritzee,1 HP,https://img.pokemondb.net/sprites/sword-shield/icon/spritzee.png,https://pokemondb.net/pokedex/spritzee,682
+aromatisse,2 HP,https://img.pokemondb.net/sprites/sword-shield/icon/aromatisse.png,https://pokemondb.net/pokedex/aromatisse,683
+swirlix,1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/swirlix.png,https://pokemondb.net/pokedex/swirlix,684
+slurpuff,2 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/slurpuff.png,https://pokemondb.net/pokedex/slurpuff,685
+inkay,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/inkay.png,https://pokemondb.net/pokedex/inkay,686
+malamar,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/malamar.png,https://pokemondb.net/pokedex/malamar,687
+binacle,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/binacle.png,https://pokemondb.net/pokedex/binacle,688
+barbaracle,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/barbaracle.png,https://pokemondb.net/pokedex/barbaracle,689
+skrelp,1 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/skrelp.png,https://pokemondb.net/pokedex/skrelp,690
+dragalge,2 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/dragalge.png,https://pokemondb.net/pokedex/dragalge,691
+clauncher,1 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/clauncher.png,https://pokemondb.net/pokedex/clauncher,692
+clawitzer,2 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/clawitzer.png,https://pokemondb.net/pokedex/clawitzer,693
+helioptile,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/helioptile.png,https://pokemondb.net/pokedex/helioptile,694
+heliolisk,1 Special Attack/ 1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/heliolisk.png,https://pokemondb.net/pokedex/heliolisk,695
+tyrunt,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/tyrunt.png,https://pokemondb.net/pokedex/tyrunt,696
+tyrantrum,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/tyrantrum.png,https://pokemondb.net/pokedex/tyrantrum,697
+amaura,1 HP,https://img.pokemondb.net/sprites/sword-shield/icon/amaura.png,https://pokemondb.net/pokedex/amaura,698
+aurorus,2 HP,https://img.pokemondb.net/sprites/sword-shield/icon/aurorus.png,https://pokemondb.net/pokedex/aurorus,699
+sylveon,2 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/sylveon.png,https://pokemondb.net/pokedex/sylveon,700
+hawlucha,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/hawlucha.png,https://pokemondb.net/pokedex/hawlucha,701
+dedenne,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/dedenne.png,https://pokemondb.net/pokedex/dedenne,702
+carbink,1 Defense/ 1 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/carbink.png,https://pokemondb.net/pokedex/carbink,703
+goomy,1 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/goomy.png,https://pokemondb.net/pokedex/goomy,704
+sliggoo,2 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/sliggoo.png,https://pokemondb.net/pokedex/sliggoo,705
+goodra,3 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/goodra.png,https://pokemondb.net/pokedex/goodra,706
+klefki,1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/klefki.png,https://pokemondb.net/pokedex/klefki,707
+phantump,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/phantump.png,https://pokemondb.net/pokedex/phantump,708
+trevenant,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/trevenant.png,https://pokemondb.net/pokedex/trevenant,709
+pumpkaboo,1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/pumpkaboo.png,https://pokemondb.net/pokedex/pumpkaboo,710
+gourgeist,2 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/gourgeist.png,https://pokemondb.net/pokedex/gourgeist,711
+bergmite,1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/bergmite.png,https://pokemondb.net/pokedex/bergmite,712
+avalugg,2 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/avalugg.png,https://pokemondb.net/pokedex/avalugg,713
+noibat,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/noibat.png,https://pokemondb.net/pokedex/noibat,714
+noivern,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/noivern.png,https://pokemondb.net/pokedex/noivern,715
+xerneas,3 HP,https://img.pokemondb.net/sprites/sword-shield/icon/xerneas.png,https://pokemondb.net/pokedex/xerneas,716
+yveltal,3 HP,https://img.pokemondb.net/sprites/sword-shield/icon/yveltal.png,https://pokemondb.net/pokedex/yveltal,717
+zygarde,3 HP,https://img.pokemondb.net/sprites/sword-shield/icon/zygarde.png,https://pokemondb.net/pokedex/zygarde,718
+diancie,1 Defense/ 2 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/diancie.png,https://pokemondb.net/pokedex/diancie,719
+hoopa,3 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/hoopa.png,https://pokemondb.net/pokedex/hoopa,720
+volcanion,3 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/volcanion.png,https://pokemondb.net/pokedex/volcanion,721
+rowlet,1 HP,https://img.pokemondb.net/sprites/sword-shield/icon/rowlet.png,https://pokemondb.net/pokedex/rowlet,722
+dartrix,2 HP,https://img.pokemondb.net/sprites/sword-shield/icon/dartrix.png,https://pokemondb.net/pokedex/dartrix,723
+decidueye,3 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/decidueye.png,https://pokemondb.net/pokedex/decidueye,724
+litten,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/litten.png,https://pokemondb.net/pokedex/litten,725
+torracat,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/torracat.png,https://pokemondb.net/pokedex/torracat,726
+incineroar,3 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/incineroar.png,https://pokemondb.net/pokedex/incineroar,727
+popplio,1 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/popplio.png,https://pokemondb.net/pokedex/popplio,728
+brionne,2 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/brionne.png,https://pokemondb.net/pokedex/brionne,729
+primarina,3 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/primarina.png,https://pokemondb.net/pokedex/primarina,730
+pikipek,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/pikipek.png,https://pokemondb.net/pokedex/pikipek,731
+trumbeak,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/trumbeak.png,https://pokemondb.net/pokedex/trumbeak,732
+toucannon,3 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/toucannon.png,https://pokemondb.net/pokedex/toucannon,733
+yungoos,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/yungoos.png,https://pokemondb.net/pokedex/yungoos,734
+gumshoos,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/gumshoos.png,https://pokemondb.net/pokedex/gumshoos,735
+grubbin,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/grubbin.png,https://pokemondb.net/pokedex/grubbin,736
+charjabug,2 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/charjabug.png,https://pokemondb.net/pokedex/charjabug,737
+vikavolt,3 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/vikavolt.png,https://pokemondb.net/pokedex/vikavolt,738
+crabrawler,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/crabrawler.png,https://pokemondb.net/pokedex/crabrawler,739
+crabominable,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/crabominable.png,https://pokemondb.net/pokedex/crabominable,740
+oricorio,2 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/oricorio.png,https://pokemondb.net/pokedex/oricorio,741
+cutiefly,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/cutiefly.png,https://pokemondb.net/pokedex/cutiefly,742
+ribombee,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/ribombee.png,https://pokemondb.net/pokedex/ribombee,743
+rockruff,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/rockruff.png,https://pokemondb.net/pokedex/rockruff,744
+lycanroc,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/lycanroc.png,https://pokemondb.net/pokedex/lycanroc,745
+wishiwashi,1 HP,https://img.pokemondb.net/sprites/sword-shield/icon/wishiwashi.png,https://pokemondb.net/pokedex/wishiwashi,746
+mareanie,1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/mareanie.png,https://pokemondb.net/pokedex/mareanie,747
+toxapex,2 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/toxapex.png,https://pokemondb.net/pokedex/toxapex,748
+mudbray,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/mudbray.png,https://pokemondb.net/pokedex/mudbray,749
+mudsdale,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/mudsdale.png,https://pokemondb.net/pokedex/mudsdale,750
+dewpider,1 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/dewpider.png,https://pokemondb.net/pokedex/dewpider,751
+araquanid,2 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/araquanid.png,https://pokemondb.net/pokedex/araquanid,752
+fomantis,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/fomantis.png,https://pokemondb.net/pokedex/fomantis,753
+lurantis,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/lurantis.png,https://pokemondb.net/pokedex/lurantis,754
+morelull,1 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/morelull.png,https://pokemondb.net/pokedex/morelull,755
+shiinotic,2 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/shiinotic.png,https://pokemondb.net/pokedex/shiinotic,756
+salandit,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/salandit.png,https://pokemondb.net/pokedex/salandit,757
+salazzle,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/salazzle.png,https://pokemondb.net/pokedex/salazzle,758
+stufful,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/stufful.png,https://pokemondb.net/pokedex/stufful,759
+bewear,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/bewear.png,https://pokemondb.net/pokedex/bewear,760
+bounsweet,1 HP,https://img.pokemondb.net/sprites/sword-shield/icon/bounsweet.png,https://pokemondb.net/pokedex/bounsweet,761
+steenee,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/steenee.png,https://pokemondb.net/pokedex/steenee,762
+tsareena,3 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/tsareena.png,https://pokemondb.net/pokedex/tsareena,763
+comfey,2 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/comfey.png,https://pokemondb.net/pokedex/comfey,764
+oranguru,2 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/oranguru.png,https://pokemondb.net/pokedex/oranguru,765
+passimian,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/passimian.png,https://pokemondb.net/pokedex/passimian,766
+wimpod,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/wimpod.png,https://pokemondb.net/pokedex/wimpod,767
+golisopod,2 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/golisopod.png,https://pokemondb.net/pokedex/golisopod,768
+sandygast,1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/sandygast.png,https://pokemondb.net/pokedex/sandygast,769
+palossand,2 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/palossand.png,https://pokemondb.net/pokedex/palossand,770
+pyukumuku,2 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/pyukumuku.png,https://pokemondb.net/pokedex/pyukumuku,771
+type-null,2 HP,https://img.pokemondb.net/sprites/sword-shield/icon/type-null.png,https://pokemondb.net/pokedex/type-null,772
+silvally,3 HP,https://img.pokemondb.net/sprites/sword-shield/icon/silvally.png,https://pokemondb.net/pokedex/silvally,773
+minior,1 Defense/ 1 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/minior.png,https://pokemondb.net/pokedex/minior,774
+komala,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/komala.png,https://pokemondb.net/pokedex/komala,775
+turtonator,2 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/turtonator.png,https://pokemondb.net/pokedex/turtonator,776
+togedemaru,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/togedemaru.png,https://pokemondb.net/pokedex/togedemaru,777
+mimikyu,2 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/mimikyu.png,https://pokemondb.net/pokedex/mimikyu,778
+bruxish,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/bruxish.png,https://pokemondb.net/pokedex/bruxish,779
+drampa,2 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/drampa.png,https://pokemondb.net/pokedex/drampa,780
+dhelmise,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/dhelmise.png,https://pokemondb.net/pokedex/dhelmise,781
+jangmo-o,1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/jangmo-o.png,https://pokemondb.net/pokedex/jangmo-o,782
+hakamo-o,2 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/hakamo-o.png,https://pokemondb.net/pokedex/hakamo-o,783
+kommo-o,3 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/kommo-o.png,https://pokemondb.net/pokedex/kommo-o,784
+tapu-koko,3 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/tapu-koko.png,https://pokemondb.net/pokedex/tapu-koko,785
+tapu-lele,3 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/tapu-lele.png,https://pokemondb.net/pokedex/tapu-lele,786
+tapu-bulu,3 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/tapu-bulu.png,https://pokemondb.net/pokedex/tapu-bulu,787
+tapu-fini,3 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/tapu-fini.png,https://pokemondb.net/pokedex/tapu-fini,788
+cosmog,1 HP,https://img.pokemondb.net/sprites/sword-shield/icon/cosmog.png,https://pokemondb.net/pokedex/cosmog,789
+cosmoem,1 Defense/ 1 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/cosmoem.png,https://pokemondb.net/pokedex/cosmoem,790
+solgaleo,3 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/solgaleo.png,https://pokemondb.net/pokedex/solgaleo,791
+lunala,3 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/lunala.png,https://pokemondb.net/pokedex/lunala,792
+nihilego,3 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/nihilego.png,https://pokemondb.net/pokedex/nihilego,793
+buzzwole,1 Attack/ 2 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/buzzwole.png,https://pokemondb.net/pokedex/buzzwole,794
+pheromosa,3 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/pheromosa.png,https://pokemondb.net/pokedex/pheromosa,795
+xurkitree,3 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/xurkitree.png,https://pokemondb.net/pokedex/xurkitree,796
+celesteela,1 Attack/ 1 Defense/ 1 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/celesteela.png,https://pokemondb.net/pokedex/celesteela,797
+kartana,3 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/kartana.png,https://pokemondb.net/pokedex/kartana,798
+guzzlord,3 HP,https://img.pokemondb.net/sprites/sword-shield/icon/guzzlord.png,https://pokemondb.net/pokedex/guzzlord,799
+necrozma,1 Attack/ 2 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/necrozma.png,https://pokemondb.net/pokedex/necrozma,800
+magearna,3 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/magearna.png,https://pokemondb.net/pokedex/magearna,801
+marshadow,2 Attack/ 1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/marshadow.png,https://pokemondb.net/pokedex/marshadow,802
+poipole,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/poipole.png,https://pokemondb.net/pokedex/poipole,803
+naganadel,3 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/naganadel.png,https://pokemondb.net/pokedex/naganadel,804
+stakataka,3 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/stakataka.png,https://pokemondb.net/pokedex/stakataka,805
+blacephalon,3 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/blacephalon.png,https://pokemondb.net/pokedex/blacephalon,806
+zeraora,3 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/zeraora.png,https://pokemondb.net/pokedex/zeraora,807
+meltan,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/meltan.png,https://pokemondb.net/pokedex/meltan,808
+melmetal,3 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/melmetal.png,https://pokemondb.net/pokedex/melmetal,809
+grookey,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/grookey.png,https://pokemondb.net/pokedex/grookey,810
+thwackey,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/thwackey.png,https://pokemondb.net/pokedex/thwackey,811
+rillaboom,3 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/rillaboom.png,https://pokemondb.net/pokedex/rillaboom,812
+scorbunny,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/scorbunny.png,https://pokemondb.net/pokedex/scorbunny,813
+raboot,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/raboot.png,https://pokemondb.net/pokedex/raboot,814
+cinderace,3 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/cinderace.png,https://pokemondb.net/pokedex/cinderace,815
+sobble,1 Special Defense/ 1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/sobble.png,https://pokemondb.net/pokedex/sobble,816
+drizzile,2 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/drizzile.png,https://pokemondb.net/pokedex/drizzile,817
+inteleon,3 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/inteleon.png,https://pokemondb.net/pokedex/inteleon,818
+skwovet,1 HP,https://img.pokemondb.net/sprites/sword-shield/icon/skwovet.png,https://pokemondb.net/pokedex/skwovet,819
+greedent,2 HP,https://img.pokemondb.net/sprites/sword-shield/icon/greedent.png,https://pokemondb.net/pokedex/greedent,820
+rookidee,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/rookidee.png,https://pokemondb.net/pokedex/rookidee,821
+corvisquire,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/corvisquire.png,https://pokemondb.net/pokedex/corvisquire,822
+corviknight,3 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/corviknight.png,https://pokemondb.net/pokedex/corviknight,823
+blipbug,1 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/blipbug.png,https://pokemondb.net/pokedex/blipbug,824
+dottler,2 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/dottler.png,https://pokemondb.net/pokedex/dottler,825
+orbeetle,3 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/orbeetle.png,https://pokemondb.net/pokedex/orbeetle,826
+nickit,1 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/nickit.png,https://pokemondb.net/pokedex/nickit,827
+thievul,2 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/thievul.png,https://pokemondb.net/pokedex/thievul,828
+gossifleur,1 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/gossifleur.png,https://pokemondb.net/pokedex/gossifleur,829
+eldegoss,2 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/eldegoss.png,https://pokemondb.net/pokedex/eldegoss,830
+wooloo,1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/wooloo.png,https://pokemondb.net/pokedex/wooloo,831
+dubwool,2 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/dubwool.png,https://pokemondb.net/pokedex/dubwool,832
+chewtle,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/chewtle.png,https://pokemondb.net/pokedex/chewtle,833
+drednaw,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/drednaw.png,https://pokemondb.net/pokedex/drednaw,834
+yamper,1 HP,https://img.pokemondb.net/sprites/sword-shield/icon/yamper.png,https://pokemondb.net/pokedex/yamper,835
+boltund,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/boltund.png,https://pokemondb.net/pokedex/boltund,836
+rolycoly,1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/rolycoly.png,https://pokemondb.net/pokedex/rolycoly,837
+carkol,2 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/carkol.png,https://pokemondb.net/pokedex/carkol,838
+coalossal,3 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/coalossal.png,https://pokemondb.net/pokedex/coalossal,839
+applin,1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/applin.png,https://pokemondb.net/pokedex/applin,840
+flapple,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/flapple.png,https://pokemondb.net/pokedex/flapple,841
+appletun,2 HP,https://img.pokemondb.net/sprites/sword-shield/icon/appletun.png,https://pokemondb.net/pokedex/appletun,842
+silicobra,1 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/silicobra.png,https://pokemondb.net/pokedex/silicobra,843
+sandaconda,2 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/sandaconda.png,https://pokemondb.net/pokedex/sandaconda,844
+cramorant,2 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/cramorant.png,https://pokemondb.net/pokedex/cramorant,845
+arrokuda,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/arrokuda.png,https://pokemondb.net/pokedex/arrokuda,846
+barraskewda,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/barraskewda.png,https://pokemondb.net/pokedex/barraskewda,847
+toxel,1 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/toxel.png,https://pokemondb.net/pokedex/toxel,848
+toxtricity,2 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/toxtricity.png,https://pokemondb.net/pokedex/toxtricity,849
+sizzlipede,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/sizzlipede.png,https://pokemondb.net/pokedex/sizzlipede,850
+centiskorch,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/centiskorch.png,https://pokemondb.net/pokedex/centiskorch,851
+clobbopus,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/clobbopus.png,https://pokemondb.net/pokedex/clobbopus,852
+grapploct,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/grapploct.png,https://pokemondb.net/pokedex/grapploct,853
+sinistea,1 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/sinistea.png,https://pokemondb.net/pokedex/sinistea,854
+polteageist,2 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/polteageist.png,https://pokemondb.net/pokedex/polteageist,855
+hatenna,1 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/hatenna.png,https://pokemondb.net/pokedex/hatenna,856
+hattrem,2 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/hattrem.png,https://pokemondb.net/pokedex/hattrem,857
+hatterene,3 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/hatterene.png,https://pokemondb.net/pokedex/hatterene,858
+impidimp,1 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/impidimp.png,https://pokemondb.net/pokedex/impidimp,859
+morgrem,2 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/morgrem.png,https://pokemondb.net/pokedex/morgrem,860
+grimmsnarl,3 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/grimmsnarl.png,https://pokemondb.net/pokedex/grimmsnarl,861
+obstagoon,3 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/obstagoon.png,https://pokemondb.net/pokedex/obstagoon,862
+perrserker,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/perrserker.png,https://pokemondb.net/pokedex/perrserker,863
+cursola,2 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/cursola.png,https://pokemondb.net/pokedex/cursola,864
+sirfetchd,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/sirfetchd.png,https://pokemondb.net/pokedex/sirfetchd,865
+mr-rime,3 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/mr-rime.png,https://pokemondb.net/pokedex/mr-rime,866
+runerigus,2 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/runerigus.png,https://pokemondb.net/pokedex/runerigus,867
+milcery,1 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/milcery.png,https://pokemondb.net/pokedex/milcery,868
+alcremie,2 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/alcremie.png,https://pokemondb.net/pokedex/alcremie,869
+falinks,2 Attack/ 1 Special Defense,https://img.pokemondb.net/sprites/sword-shield/icon/falinks.png,https://pokemondb.net/pokedex/falinks,870
+pincurchin,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/pincurchin.png,https://pokemondb.net/pokedex/pincurchin,871
+snom,1 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/snom.png,https://pokemondb.net/pokedex/snom,872
+frosmoth,2 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/frosmoth.png,https://pokemondb.net/pokedex/frosmoth,873
+stonjourner,2 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/stonjourner.png,https://pokemondb.net/pokedex/stonjourner,874
+eiscue,2 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/eiscue.png,https://pokemondb.net/pokedex/eiscue,875
+indeedee,2 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/indeedee.png,https://pokemondb.net/pokedex/indeedee,876
+morpeko,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/morpeko.png,https://pokemondb.net/pokedex/morpeko,877
+cufant,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/cufant.png,https://pokemondb.net/pokedex/cufant,878
+copperajah,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/copperajah.png,https://pokemondb.net/pokedex/copperajah,879
+dracozolt,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/dracozolt.png,https://pokemondb.net/pokedex/dracozolt,880
+arctozolt,2 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/arctozolt.png,https://pokemondb.net/pokedex/arctozolt,881
+dracovish,2 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/dracovish.png,https://pokemondb.net/pokedex/dracovish,882
+arctovish,2 Defense,https://img.pokemondb.net/sprites/sword-shield/icon/arctovish.png,https://pokemondb.net/pokedex/arctovish,883
+duraludon,2 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/duraludon.png,https://pokemondb.net/pokedex/duraludon,884
+dreepy,1 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/dreepy.png,https://pokemondb.net/pokedex/dreepy,885
+drakloak,2 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/drakloak.png,https://pokemondb.net/pokedex/drakloak,886
+dragapult,3 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/dragapult.png,https://pokemondb.net/pokedex/dragapult,887
+zacian,3 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/zacian.png,https://pokemondb.net/pokedex/zacian,888
+zamazenta,3 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/zamazenta.png,https://pokemondb.net/pokedex/zamazenta,889
+eternatus,3 HP,https://img.pokemondb.net/sprites/sword-shield/icon/eternatus.png,https://pokemondb.net/pokedex/eternatus,890
+kubfu,1 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/kubfu.png,https://pokemondb.net/pokedex/kubfu,891
+urshifu,3 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/urshifu.png,https://pokemondb.net/pokedex/urshifu,892
+zarude,3 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/zarude.png,https://pokemondb.net/pokedex/zarude,893
+regieleki,3 Speed,https://img.pokemondb.net/sprites/sword-shield/icon/regieleki.png,https://pokemondb.net/pokedex/regieleki,894
+regidrago,3 HP,https://img.pokemondb.net/sprites/sword-shield/icon/regidrago.png,https://pokemondb.net/pokedex/regidrago,895
+glastrier,3 Attack,https://img.pokemondb.net/sprites/sword-shield/icon/glastrier.png,https://pokemondb.net/pokedex/glastrier,896
+spectrier,3 Special Attack,https://img.pokemondb.net/sprites/sword-shield/icon/spectrier.png,https://pokemondb.net/pokedex/spectrier,897
+calyrex,3 HP,https://img.pokemondb.net/sprites/sword-shield/icon/calyrex.png,https://pokemondb.net/pokedex/calyrex,898
+wyrdeer,—,https://img.pokemondb.net/sprites/sword-shield/icon/wyrdeer.png,https://pokemondb.net/pokedex/wyrdeer,899
+kleavor,—,https://img.pokemondb.net/sprites/sword-shield/icon/kleavor.png,https://pokemondb.net/pokedex/kleavor,900
+ursaluna,—,https://img.pokemondb.net/sprites/sword-shield/icon/ursaluna.png,https://pokemondb.net/pokedex/ursaluna,901
+basculegion,—,https://img.pokemondb.net/sprites/sword-shield/icon/basculegion.png,https://pokemondb.net/pokedex/basculegion,902
+sneasler,—,https://img.pokemondb.net/sprites/sword-shield/icon/sneasler.png,https://pokemondb.net/pokedex/sneasler,903
+overqwil,—,https://img.pokemondb.net/sprites/sword-shield/icon/overqwil.png,https://pokemondb.net/pokedex/overqwil,904
+enamorus,—,https://img.pokemondb.net/sprites/sword-shield/icon/enamorus.png,https://pokemondb.net/pokedex/enamorus,905
