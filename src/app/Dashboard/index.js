@@ -73,15 +73,15 @@ const Dashboard = ({}) => {
       <EVStatisticsPanel
         evStats={allEvsStats}
         className='col-sm-3'
-        style={{backgroundColor: 'rgb(64, 0, 128)', maxHeight: 400}}
+        style={{maxHeight: 400, backgroundColor: '#fff'}}
       />
-      <div className='col-sm-6' style={{boxShadow: '5px 5px 10px'}}>
+      <div className='col-sm-6' style={{boxShadow: '0 5px 15px', backgroundColor: '#fff'}}>
         <EVToggleStatsNav
           evStatsHeaders={statsHeaders}
           onStatToggle={toggleActiveStat}
           activeStat={activeStat}
         />
-        <div className='col-sm-12' style={{padding: 20, margin: '150px 0'}}>
+        <div className='col-sm-12' style={{padding: 20, margin: '150px 0', }}>
           <input
             type='select'
             className='offset-sm-2 col-sm-8'
