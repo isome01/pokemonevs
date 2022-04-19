@@ -3,10 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="bbbe8827-a325-4742-86ed-3e7c70e4f7a7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/Dashboard/EVStatisticsPanel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/Dashboard/EVStatisticsPanel.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/Dashboard/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/Dashboard/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config/ajax.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/config/ajax.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/server/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +85,7 @@
       <option name="presentableId" value="Default" />
       <updated>1650161256625</updated>
       <workItem from="1650263015885" duration="30000" />
-      <workItem from="1650263465754" duration="43916000" />
+      <workItem from="1650263465754" duration="46584000" />
     </task>
     <servers />
   </component>

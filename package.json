@@ -26,7 +26,7 @@
     "yarn": "^1.22.18"
   },
   "scripts": {
-    "start": "concurrently \"react-scripts start\" \"npm run server\"",
+    "start": "concurrently \"cross-env PORT=80 react-scripts start\" \"npm run server\"",
     "scraper": "py ./python/main.py",
     "server": "node ./src/server/index.js",
     "build": "react-scripts build",

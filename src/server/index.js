@@ -1,4 +1,4 @@
-const BACKEND_PORT = process.env.BACKEND_PORT || 5002
+const BACKEND_PORT = process.env.BACKEND_PORT || 5001
 
 const express = require('express')
 const cors = require('cors')
