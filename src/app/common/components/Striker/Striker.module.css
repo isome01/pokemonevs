@@ -1,0 +1,30 @@
+.striker {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    position: relative;
+    background-color: inherit;
+    padding: 0;
+    margin: 0;
+}
+
+.striker-polygon {
+    position: relative;
+    border-right: solid 1385px transparent;
+    border-left: 0;
+    border-top: solid 195px #000;
+    /*border-bottom: solid 25px #000;*/
+    height: 0;
+    width: 10px;
+    padding: 0;
+    margin: 0;
+}
+
+.striker-header {
+    top: 0;
+    left: 0;
+    color: #fff;
+    position: absolute;
+}
