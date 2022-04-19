@@ -50,6 +50,7 @@ if __name__ == '__main__':
                 next_page = s.wd().find_element_by_css_selector('.entity-nav-next')
                 ev_yield = s.wd().find_elements_by_css_selector('.vitals-table > tbody > tr:nth-child(1) > td')[1].text.replace(',', '/')
                 name = link.split('/').pop()
+                name = name[0].upper() + name[1:]
                 sprite_img = f'https://img.pokemondb.net/sprites/sword-shield/icon/' \
                              f'{link.split("/").pop()}.png'
                 output.write(f'\n{name},{ev_yield},{sprite_img},{link},{count}')

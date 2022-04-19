@@ -1,0 +1,69 @@
+body,html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  min-height: calc(100vh - 80);
+  width: calc(100vw);
+  overflow-x: hidden;
+  font-family: "Fira Sans","Trebuchet MS",Ubuntu,Helvetica,Arial sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /*background: url("https://cdn.hovia.com/app/uploads/peach-and-green-speckle-plain-820x532.jpg");*/
+}
+
+#root {
+  margin: 0;
+  padding: 0;
+  background: transparent;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  min-height: 150px;
+  background-color: #000;
+  color: #fff;
+  border-top: solid 10px #440088;
+  padding: 25px 0 50px 0;
+  margin: 0;
+}
+
+footer a:link, footer a:visited {
+  color: white;
+}
+
+footer a:hover {
+
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 15px;
+  cursor: pointer;
+  transition: background-color .5s;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey;
+  background-color: black;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background-color: rgb(64, 0, 128);
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background-color: rgb(64, 0, 128);
+}
+
+@media only screen and (max-width: 576px){
+  footer img {
+    max-width: 200px;
+    width: 100%;
+  }
+}
