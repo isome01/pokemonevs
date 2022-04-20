@@ -6,7 +6,7 @@ node_modules
 .pnp.js
 __pycache__
 .env
-cert
+ssl
 # testing
 /coverage
 
