@@ -1,4 +1,4 @@
-const BACKEND_PORT = process.env.BACKEND_PORT || 5001
+const BACKEND_PORT = process.env.REACT_APP_BACKEND_PORT || 5001
 
 const express = require('express')
 const cors = require('cors')
@@ -14,5 +14,5 @@ app.use(helmet())
 require('./pokemonInfo')(app)
 
 app.listen(BACKEND_PORT, function() {
-  console.log(`REST service listening at localhost on port ${BACKEND_PORT}.`)
+  console.log(`REST service listening at ${process.env.REACT_APP_BACKEND_DOMAIN} on port ${BACKEND_PORT}.`)
 })

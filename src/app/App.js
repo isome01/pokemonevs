@@ -5,6 +5,7 @@ const copyrightText = '' +
   'All sprite content © Pokémon Database, 2008-2022. Pokémon images & names © 1995-2022 Nintendo/Game Freak.'
 
 function App() {
+  console.log(process.env.REACT_APP_BACKEND_DOMAIN)
   return (
     <div className='container-fluid'>
       <Dashboard />
