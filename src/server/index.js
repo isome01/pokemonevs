@@ -1,4 +1,12 @@
-const BACKEND_PORT = process.env.REACT_APP_BACKEND_PORT || 5001
+const fs = require('fs')
+
+const https = require('https')
+const http = require('http')
+
+const key  = fs.readFileSync(process.env.npm_package_privKey)
+const cert = fs.readFileSync(process.env.npm_package_cert)
+
+const credentials = {key, cert}
 
 const express = require('express')
 const cors = require('cors')
@@ -13,6 +21,9 @@ app.use(helmet())
 // Assign routes to service
 require('./pokemonInfo')(app)
 
-app.listen(BACKEND_PORT, function() {
-  console.log(`REST service listening at ${process.env.REACT_APP_BACKEND_DOMAIN} on port ${BACKEND_PORT}.`)
-})
+// create our http and https servers
+const httpServer = http.createServer(app)
+const httpsServer = https.createServer(credentials, app)
+
+httpServer.listen(5001)
+httpsServer.listen(5443)

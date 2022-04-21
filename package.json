@@ -2,6 +2,11 @@
   "name": "pokemonevs",
   "version": "0.1.0",
   "private": true,
+  "middlewareRedirect": "localhost",
+  "production": false,
+  "cert": "./ssl/fullchain.pem",
+  "privKey": "./ssl/privkey.pem",
+  "productionUrl": "pokemonevs.net",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
@@ -27,7 +32,8 @@
     "yarn": "^1.22.18"
   },
   "scripts": {
-    "start": "concurrently \"cross-env PORT=80 react-scripts start\" \"npm run server\"",
+    "start": "concurrently \"cross-env react-scripts start\" \"npm run server\" \"npm run middleware\"",
+    "middleware": "node ./src/middleware/index.js",
     "scraper": "py ./python/main.py",
     "server": "node ./src/server/index.js",
     "build": "react-scripts build",
