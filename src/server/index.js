@@ -1,12 +1,9 @@
 const fs = require('fs')
 
-const https = require('https')
-const http = require('http')
-
 const key  = fs.readFileSync(process.env.npm_package_privKey)
 const cert = fs.readFileSync(process.env.npm_package_cert)
 
-const credentials = {key, cert}
+const creds = {key, cert}
 
 const express = require('express')
 const cors = require('cors')
@@ -22,8 +19,8 @@ app.use(helmet())
 require('./pokemonInfo')(app)
 
 // create our http and https servers
-const httpServer = http.createServer(app)
-const httpsServer = https.createServer(credentials, app)
+// const httpServer = require('http').createServer(app)
+const httpsServer = require('https').createServer(creds, app)
 
-httpServer.listen(5001)
+// httpServer.listen(5001)
 httpsServer.listen(5443)
