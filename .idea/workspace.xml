@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="bbbe8827-a325-4742-86ed-3e7c70e4f7a7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/server/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/server/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +40,7 @@
     <property name="exceleditor.install" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="16.13.1" />
     <property name="javascript.nodejs.core.library.typings.version" value="16.11.27" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/app/common/components" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.3.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -91,7 +91,7 @@
       <workItem from="1650263015885" duration="30000" />
       <workItem from="1650263465754" duration="50581000" />
       <workItem from="1650440258847" duration="6469000" />
-      <workItem from="1650498128079" duration="8719000" />
+      <workItem from="1650498128079" duration="13568000" />
     </task>
     <servers />
   </component>
