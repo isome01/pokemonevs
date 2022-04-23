@@ -1,6 +1,6 @@
 import axios from 'axios/index'
 
-const backendUrl = `http://localhost:5002`
+const backendUrl = `${process.env.REACT_APP_BACKEND_PROTOCOL}://${process.env.REACT_APP_BACKEND_DOMAIN}:${process.env.REACT_APP_BACKEND_PORT}`
 
 const ajax = axios.create({
   baseURL: backendUrl,

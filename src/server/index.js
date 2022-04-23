@@ -1,4 +1,9 @@
-const BACKEND_PORT = process.env.BACKEND_PORT || 5002
+const fs = require('fs')
+
+const key  = fs.readFileSync(process.env.npm_package_privKey)
+const cert = fs.readFileSync(process.env.npm_package_cert)
+
+const creds = {key, cert}
 
 const express = require('express')
 const cors = require('cors')
@@ -13,6 +18,9 @@ app.use(helmet())
 // Assign routes to service
 require('./pokemonInfo')(app)
 
-app.listen(BACKEND_PORT, function() {
-  console.log(`REST service listening at localhost on port ${BACKEND_PORT}.`)
-})
+// create our http and https servers
+// const httpServer = require('http').createServer(app)
+const httpsServer = require('https').createServer(creds, app)
+
+// httpServer.listen(5001)
+httpsServer.listen(5001)
