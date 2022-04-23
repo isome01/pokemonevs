@@ -1,4 +1,5 @@
 import React, {useCallback, useEffect, useState} from 'react'
+import {useForm} from '../../hooks'
 // import PropTypes from 'prop-types'
 import {getListAllPokemonInfo} from './api'
 import EVStatisticsPanel from './EVStatisticsPanel'
@@ -10,12 +11,8 @@ const pokemonCountLimit = 898
 const Dashboard = ({}) => {
   const [allData, setAllData] = useState([])
   const [allEvsStats, setAllEvsStats] = useState({})
-  const [searchBoxValue, setSearchBoxValue] = useState({})
   const [activeStat, setActiveStat] = useState('All')
-
-  const onSearchSelect = useCallback(record => {
-    setSearchBoxValue(record)
-  }, [setSearchBoxValue])
+  const {initialValues, currentValues, setInitialValues, isDirty, setValue} = useForm()
 
   const toggleActiveStat = useCallback(stat => {
     if (!stat) {
@@ -26,6 +23,10 @@ const Dashboard = ({}) => {
   }, [setActiveStat])
 
   useEffect(() => {
+    setInitialValues({
+      searchBoxValue: ''
+    })
+
     getListAllPokemonInfo().then(
       res => {
         // set holistic data
@@ -51,10 +52,14 @@ const Dashboard = ({}) => {
         console.log(err)
       }
     )
-  }, [setAllData, setAllEvsStats])
+  }, [setAllData, setAllEvsStats, setInitialValues])
 
   const statsHeaders = Object.keys(allEvsStats)
-  const filteredData = allData.filter(d => {
+  const filteredData = allData
+    .filter(d => {
+
+    // filter by tab
+
     if (activeStat === 'All') {
       return true
     }
@@ -67,6 +72,15 @@ const Dashboard = ({}) => {
     }
     return match
   })
+    .filter(d => {
+      // filter by searchBoxValue value
+      const {searchBoxValue} = currentValues
+      if (!isDirty) return true
+
+      else if (!(d.name.includes(searchBoxValue))) return false
+
+      return true
+    })
 
   return (
     <div className='row'>
@@ -86,7 +100,9 @@ const Dashboard = ({}) => {
             type='select'
             className='offset-sm-2 col-sm-8'
             placeholder='...Pikachu, etc.'
-            style={{width: '100%'}}
+            style={{width: '100%', padding: 5}}
+            value={currentValues['searchBoxValue'] || ''}
+            onChange={e => setValue('searchBoxValue', e.target.value)}
           />
         </div>
         <PokemonCardPanel
